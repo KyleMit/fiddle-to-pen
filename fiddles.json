@@ -1,0 +1,4852 @@
+[
+  {
+    "framework": "No-Library",
+    "version": 4,
+    "description": "",
+    "title": "SVG with FF A11Y Audit",
+    "url": "//jsfiddle.net/KyleMit/7wbvogue/",
+    "author": "KyleMit",
+    "latest_version": 4,
+    "created": "2019-09-18 00:12:10"
+  },
+  {
+    "framework": "No-Library",
+    "version": 16,
+    "description": "",
+    "title": "Centering Oversized Images",
+    "url": "//jsfiddle.net/KyleMit/8up1s0za/",
+    "author": "KyleMit",
+    "latest_version": 16,
+    "created": "2019-09-16 17:05:32"
+  },
+  {
+    "framework": "No-Library",
+    "version": 7,
+    "description": "",
+    "title": "Datalist with Optional Text",
+    "url": "//jsfiddle.net/KyleMit/rkaxd9f1/",
+    "author": "KyleMit",
+    "latest_version": 8,
+    "created": "2019-09-24 18:06:04"
+  },
+  {
+    "framework": "No-Library",
+    "version": 5,
+    "description": "",
+    "title": "CSS Tooltip",
+    "url": "//jsfiddle.net/KyleMit/qodrw1ys/",
+    "author": "KyleMit",
+    "latest_version": 5,
+    "created": "2019-09-12 02:02:46"
+  },
+  {
+    "framework": "No-Library",
+    "version": 11,
+    "description": "",
+    "title": "JS Tooltip",
+    "url": "//jsfiddle.net/KyleMit/m6h5tqaw/",
+    "author": "KyleMit",
+    "latest_version": 12,
+    "created": "2019-09-12 03:03:09"
+  },
+  {
+    "framework": "No-Library",
+    "version": 61,
+    "description": "",
+    "title": "Websafe Font Backup",
+    "url": "//jsfiddle.net/KyleMit/eL15pxrm/",
+    "author": "KyleMit",
+    "latest_version": 62,
+    "created": "2019-09-14 03:03:30"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Window Dimensions",
+    "url": "//jsfiddle.net/KyleMit/05tzwx2a/",
+    "author": "KyleMit",
+    "latest_version": 3,
+    "created": "2019-09-03 03:03:45"
+  },
+  {
+    "framework": "No-Library",
+    "version": 7,
+    "description": "",
+    "title": "HTML to Text",
+    "url": "//jsfiddle.net/KyleMit/e7gup5nj/",
+    "author": "KyleMit",
+    "latest_version": 9,
+    "created": "2019-08-29 02:02:41"
+  },
+  {
+    "framework": "No-Library",
+    "version": 21,
+    "description": "",
+    "title": "Search Input Styles",
+    "url": "//jsfiddle.net/KyleMit/bhd7u81L/",
+    "author": "KyleMit",
+    "latest_version": 22,
+    "created": "2019-08-29 01:01:20"
+  },
+  {
+    "framework": "No-Library",
+    "version": 10,
+    "description": "",
+    "title": "JIRA Epic Legend",
+    "url": "//jsfiddle.net/KyleMit/k4azs3eL/",
+    "author": "KyleMit",
+    "latest_version": 10,
+    "created": "2019-08-28 21:09:57"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "Find Client IP via JS",
+    "url": "//jsfiddle.net/KyleMit/69u138zv/",
+    "author": "KyleMit",
+    "latest_version": 2,
+    "created": "2019-08-28 02:02:54"
+  },
+  {
+    "framework": "No-Library",
+    "version": 5,
+    "description": "",
+    "title": "Test Local File Access",
+    "url": "//jsfiddle.net/KyleMit/tpagqnyh/",
+    "author": "KyleMit",
+    "latest_version": 5,
+    "created": "2019-08-28 02:02:06"
+  },
+  {
+    "framework": "No-Library",
+    "version": 6,
+    "description": "",
+    "title": "You Wouldn't",
+    "url": "//jsfiddle.net/KyleMit/zms6g3be/",
+    "author": "KyleMit",
+    "latest_version": 7,
+    "created": "2019-08-14 03:03:06"
+  },
+  {
+    "framework": "No-Library",
+    "version": 27,
+    "description": "",
+    "title": "Minimal Markdown",
+    "url": "//jsfiddle.net/KyleMit/bqr0wysc/",
+    "author": "KyleMit",
+    "latest_version": 27,
+    "created": "2019-08-12 17:05:26"
+  },
+  {
+    "framework": "No-Library",
+    "version": 13,
+    "description": "",
+    "title": "<vtcc> Font",
+    "url": "//jsfiddle.net/KyleMit/7yu9d1nm/",
+    "author": "KyleMit",
+    "latest_version": 14,
+    "created": "2019-08-09 20:08:19"
+  },
+  {
+    "framework": "No-Library",
+    "version": 55,
+    "description": "",
+    "title": "Marble Work",
+    "url": "//jsfiddle.net/KyleMit/jk6spoc1/",
+    "author": "KyleMit",
+    "latest_version": 56,
+    "created": "2019-07-15 20:08:56"
+  },
+  {
+    "framework": "No-Library",
+    "version": 9,
+    "description": "",
+    "title": "Easy Auto Complete Issue - Displays without Focus",
+    "url": "//jsfiddle.net/KyleMit/qndty7k5/",
+    "author": "KyleMit",
+    "latest_version": 10,
+    "created": "2019-08-29 01:01:08"
+  },
+  {
+    "framework": "No-Library",
+    "version": 6,
+    "description": "",
+    "title": "text-decoration-thickness",
+    "url": "//jsfiddle.net/KyleMit/a0mskten/",
+    "author": "KyleMit",
+    "latest_version": 6,
+    "created": "2019-08-09 17:05:19"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "html,body,svg { height:100% }",
+    "url": "//jsfiddle.net/KyleMit/qp32csb5/",
+    "author": "KyleMit",
+    "latest_version": 7,
+    "created": "2019-06-13 22:10:06"
+  },
+  {
+    "framework": "No-Library",
+    "version": 30,
+    "description": "",
+    "title": "Dynamic Input Width",
+    "url": "//jsfiddle.net/KyleMit/bx9w73L2/",
+    "author": "KyleMit",
+    "latest_version": 30,
+    "created": "2019-06-14 01:01:39"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Select2 : open on focus",
+    "url": "//jsfiddle.net/KyleMit/xcmbfz6u/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2019-05-24 17:05:21"
+  },
+  {
+    "framework": "No-Library",
+    "version": 21,
+    "description": "",
+    "title": "Select2 : open on focus",
+    "url": "//jsfiddle.net/KyleMit/pqhe7d94/",
+    "author": "KyleMit",
+    "latest_version": 21,
+    "created": "2019-05-24 17:05:54"
+  },
+  {
+    "framework": "No-Library",
+    "version": 90,
+    "description": "",
+    "title": "Select2 Open Dropdown on (Tab) Focus 4.07",
+    "url": "//jsfiddle.net/KyleMit/hbeon3g2/",
+    "author": "KyleMit",
+    "latest_version": 91,
+    "created": "2019-05-30 16:04:44"
+  },
+  {
+    "framework": "No-Library",
+    "version": 28,
+    "description": "",
+    "title": "Micro Grammar - BMI Example",
+    "url": "//jsfiddle.net/KyleMit/df1rou8m/",
+    "author": "KyleMit",
+    "latest_version": 29,
+    "created": "2019-05-13 17:05:26"
+  },
+  {
+    "framework": "No-Library",
+    "version": 10,
+    "description": "",
+    "title": "Twitter Widget",
+    "url": "//jsfiddle.net/KyleMit/pm4zjsdc/",
+    "author": "KyleMit",
+    "latest_version": 10,
+    "created": "2019-05-05 19:07:04"
+  },
+  {
+    "framework": "No-Library",
+    "version": 7,
+    "description": "",
+    "title": "Embed Tweet",
+    "url": "//jsfiddle.net/KyleMit/xvd2gh1j/",
+    "author": "KyleMit",
+    "latest_version": 8,
+    "created": "2019-05-05 18:06:48"
+  },
+  {
+    "framework": "No-Library",
+    "version": 33,
+    "description": "",
+    "title": "Underlining Headers",
+    "url": "//jsfiddle.net/KyleMit/pmzu9xrj/",
+    "author": "KyleMit",
+    "latest_version": 34,
+    "created": "2019-04-29 21:09:23"
+  },
+  {
+    "framework": "No-Library",
+    "version": 8,
+    "description": "",
+    "title": "CSS Grid",
+    "url": "//jsfiddle.net/KyleMit/h014Lkru/",
+    "author": "KyleMit",
+    "latest_version": 8,
+    "created": "2019-04-26 03:03:09"
+  },
+  {
+    "framework": "No-Library",
+    "version": 5,
+    "description": "",
+    "title": "Column Layouts",
+    "url": "//jsfiddle.net/KyleMit/zsumyvao/",
+    "author": "KyleMit",
+    "latest_version": 5,
+    "created": "2019-04-23 20:08:49"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "Misc input and output tests.",
+    "title": "Input gets you output",
+    "url": "//jsfiddle.net/KyleMit/nq74y1fv/",
+    "author": "KyleMit",
+    "latest_version": 2,
+    "created": "2019-04-12 20:08:29"
+  },
+  {
+    "framework": "No-Library",
+    "version": 8,
+    "description": "",
+    "title": "Trapezoid",
+    "url": "//jsfiddle.net/KyleMit/wrmf7zej/",
+    "author": "KyleMit",
+    "latest_version": 8,
+    "created": "2019-04-03 01:01:04"
+  },
+  {
+    "framework": "No-Library",
+    "version": 38,
+    "description": "",
+    "title": "Fun Links",
+    "url": "//jsfiddle.net/KyleMit/2405ewtp/",
+    "author": "KyleMit",
+    "latest_version": 38,
+    "created": "2019-04-03 01:01:22"
+  },
+  {
+    "framework": "jQuery",
+    "version": 7,
+    "description": "",
+    "title": "Sarcasm Casing",
+    "url": "//jsfiddle.net/KyleMit/drkwzv35/",
+    "author": "KyleMit",
+    "latest_version": 8,
+    "created": "2019-03-27 14:02:02"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "Stack Snippet Console",
+    "url": "//jsfiddle.net/KyleMit/z9nx30kL/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2019-03-25 21:09:05"
+  },
+  {
+    "framework": "No-Library",
+    "version": 5,
+    "description": "",
+    "title": "JS Fiddle Console",
+    "url": "//jsfiddle.net/KyleMit/we14p3L0/",
+    "author": "KyleMit",
+    "latest_version": 5,
+    "created": "2019-03-25 21:09:18"
+  },
+  {
+    "framework": "No-Library",
+    "version": 9,
+    "description": "",
+    "title": "Firebug Lite Console",
+    "url": "//jsfiddle.net/KyleMit/w6gf1kp3/",
+    "author": "KyleMit",
+    "latest_version": 9,
+    "created": "2019-08-28 02:02:07"
+  },
+  {
+    "framework": "jQuery",
+    "version": 13,
+    "description": "",
+    "title": "Destructuring JS",
+    "url": "//jsfiddle.net/KyleMit/x0d6te7y/",
+    "author": "KyleMit",
+    "latest_version": 13,
+    "created": "2019-03-25 20:08:35"
+  },
+  {
+    "framework": "No-Library",
+    "version": 15,
+    "description": "",
+    "title": "React Logo in SVG",
+    "url": "//jsfiddle.net/KyleMit/cx0qhgwb/",
+    "author": "KyleMit",
+    "latest_version": 15,
+    "created": "2019-03-27 15:03:23"
+  },
+  {
+    "framework": "No-Library",
+    "version": 9,
+    "description": "",
+    "title": "\"N\" \"P\" \"M\"",
+    "url": "//jsfiddle.net/KyleMit/f3nk7rtL/",
+    "author": "KyleMit",
+    "latest_version": 10,
+    "created": "2019-03-27 15:03:58"
+  },
+  {
+    "framework": "No-Library",
+    "version": 25,
+    "description": "",
+    "title": "Webpack Logo in SVG",
+    "url": "//jsfiddle.net/KyleMit/euc1dzhk/",
+    "author": "KyleMit",
+    "latest_version": 25,
+    "created": "2019-03-27 15:03:12"
+  },
+  {
+    "framework": "No-Library",
+    "version": 205,
+    "description": "",
+    "title": "Add syntax highlighting using Balsamiq Flavored Markdown",
+    "url": "//jsfiddle.net/KyleMit/ca789Ley/",
+    "author": "KyleMit",
+    "latest_version": 205,
+    "created": "2019-04-01 22:10:16"
+  },
+  {
+    "framework": "No-Library",
+    "version": 53,
+    "description": "Forked from view-source:https://upload.wikimedia.org/wikipedia/commons/5/53/Vue.js_Logo.svg",
+    "title": "Vue-mont logo",
+    "url": "//jsfiddle.net/KyleMit/xpq2g3bc/",
+    "author": "KyleMit",
+    "latest_version": 55,
+    "created": "2019-03-03 17:05:25"
+  },
+  {
+    "framework": "No-Library",
+    "version": 7,
+    "description": "",
+    "title": "Grid Card Height",
+    "url": "//jsfiddle.net/KyleMit/syb0vf6o/",
+    "author": "KyleMit",
+    "latest_version": 8,
+    "created": "2019-02-12 02:02:41"
+  },
+  {
+    "framework": "No-Library",
+    "version": 2,
+    "description": "",
+    "title": "Corner Callout",
+    "url": "//jsfiddle.net/KyleMit/kepctas5/",
+    "author": "KyleMit",
+    "latest_version": 2,
+    "created": "2019-02-12 02:02:39"
+  },
+  {
+    "framework": "No-Library",
+    "version": 42,
+    "description": "",
+    "title": "Flexing Multiple Banners",
+    "url": "//jsfiddle.net/KyleMit/g0s51f2z/",
+    "author": "KyleMit",
+    "latest_version": 42,
+    "created": "2019-01-15 21:09:47"
+  },
+  {
+    "framework": "No-Library",
+    "version": 2,
+    "description": "",
+    "title": "Text on Picture",
+    "url": "//jsfiddle.net/KyleMit/1nf6phkv/",
+    "author": "KyleMit",
+    "latest_version": 2,
+    "created": "2019-01-14 18:06:52"
+  },
+  {
+    "framework": "No-Library",
+    "version": 6,
+    "description": "",
+    "title": "Icon Checkbox",
+    "url": "//jsfiddle.net/KyleMit/kduwcsa2/",
+    "author": "KyleMit",
+    "latest_version": 6,
+    "created": "2019-01-07 20:08:57"
+  },
+  {
+    "framework": "jQuery",
+    "version": 4,
+    "description": "",
+    "title": "Focus Test",
+    "url": "//jsfiddle.net/KyleMit/7L0fpj1a/",
+    "author": "KyleMit",
+    "latest_version": 8,
+    "created": "2019-01-07 17:05:18"
+  },
+  {
+    "framework": "Mootools",
+    "version": 0,
+    "description": "jsFiddle demo hosted on Github using HTML Request to get Ajax data\nauthor(s):\nPiotr Zalewa",
+    "title": "Request.HTML - jsFiddle/Github integration demo",
+    "url": "//jsfiddle.net/KyleMit/adco71q0/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2019-01-05 19:07:54"
+  },
+  {
+    "framework": "jQuery",
+    "version": 16,
+    "description": "",
+    "title": "Hidden Element Height",
+    "url": "//jsfiddle.net/KyleMit/8Ljk326m/",
+    "author": "KyleMit",
+    "latest_version": 16,
+    "created": "2019-01-03 23:11:20"
+  },
+  {
+    "framework": "No-Library",
+    "version": 40,
+    "description": "",
+    "title": "Spoooky (Flip) Text",
+    "url": "//jsfiddle.net/KyleMit/05ftcL47/",
+    "author": "KyleMit",
+    "latest_version": 41,
+    "created": "2018-12-31 18:06:56"
+  },
+  {
+    "framework": "No-Library",
+    "version": 4,
+    "description": "",
+    "title": "Caroller",
+    "url": "//jsfiddle.net/KyleMit/w7sqkop0/",
+    "author": "KyleMit",
+    "latest_version": 32,
+    "created": "2018-12-22 01:01:47"
+  },
+  {
+    "framework": "No-Library",
+    "version": 25,
+    "description": "",
+    "title": "Poem",
+    "url": "//jsfiddle.net/KyleMit/8vext12a/",
+    "author": "KyleMit",
+    "latest_version": 25,
+    "created": "2018-12-14 16:04:55"
+  },
+  {
+    "framework": "No-Library",
+    "version": 4,
+    "description": "",
+    "title": "Transition Opacity",
+    "url": "//jsfiddle.net/KyleMit/o5nwe6xb/",
+    "author": "KyleMit",
+    "latest_version": 5,
+    "created": "2018-12-05 00:12:02"
+  },
+  {
+    "framework": "No-Library",
+    "version": 139,
+    "description": "",
+    "title": "Zimri Logo",
+    "url": "//jsfiddle.net/KyleMit/o1exsd5n/",
+    "author": "KyleMit",
+    "latest_version": 139,
+    "created": "2018-12-08 15:03:40"
+  },
+  {
+    "framework": "No-Library",
+    "version": 117,
+    "description": "",
+    "title": "Roadmap w/ Shirt Sizing",
+    "url": "//jsfiddle.net/KyleMit/pguLqo7e/",
+    "author": "KyleMit",
+    "latest_version": 160,
+    "created": "2018-11-21 18:06:07"
+  },
+  {
+    "framework": "jQuery",
+    "version": 79,
+    "description": "",
+    "title": "Bingo Board",
+    "url": "//jsfiddle.net/KyleMit/73sr0vcx/",
+    "author": "KyleMit",
+    "latest_version": 80,
+    "created": "2018-11-20 02:02:09"
+  },
+  {
+    "framework": "jQuery",
+    "version": 68,
+    "description": "",
+    "title": "Interactive Toast",
+    "url": "//jsfiddle.net/KyleMit/93odnub7/",
+    "author": "KyleMit",
+    "latest_version": 69,
+    "created": "2018-11-19 21:09:34"
+  },
+  {
+    "framework": "No-Library",
+    "version": 9,
+    "description": "",
+    "title": "Material Design Components",
+    "url": "//jsfiddle.net/KyleMit/jvhsf2wx/",
+    "author": "KyleMit",
+    "latest_version": 9,
+    "created": "2018-11-16 02:02:02"
+  },
+  {
+    "framework": "No-Library",
+    "version": 14,
+    "description": "",
+    "title": "Typed.js - Replace Initial Text",
+    "url": "//jsfiddle.net/KyleMit/7vrhgq80/",
+    "author": "KyleMit",
+    "latest_version": 21,
+    "created": "2018-11-14 01:01:55"
+  },
+  {
+    "framework": "jQuery",
+    "version": 34,
+    "description": "",
+    "title": "Copy Paste Balsamiq",
+    "url": "//jsfiddle.net/KyleMit/yw2vfh9c/",
+    "author": "KyleMit",
+    "latest_version": 34,
+    "created": "2018-11-07 18:06:14"
+  },
+  {
+    "framework": "No-Library",
+    "version": 143,
+    "description": "",
+    "title": "Fixed Height Sizing",
+    "url": "//jsfiddle.net/KyleMit/s65uw0kg/",
+    "author": "KyleMit",
+    "latest_version": 143,
+    "created": "2018-11-04 03:03:36"
+  },
+  {
+    "framework": "No-Library",
+    "version": 38,
+    "description": "",
+    "title": "Image Compare Widget",
+    "url": "//jsfiddle.net/KyleMit/5nh1w32p/",
+    "author": "KyleMit",
+    "latest_version": 40,
+    "created": "2018-11-03 03:03:47"
+  },
+  {
+    "framework": "No-Library",
+    "version": 11,
+    "description": "",
+    "title": "Masked Input - Phone Number",
+    "url": "//jsfiddle.net/KyleMit/se3fvkhz/",
+    "author": "KyleMit",
+    "latest_version": 12,
+    "created": "2018-11-01 21:09:48"
+  },
+  {
+    "framework": "No-Library",
+    "version": 14,
+    "description": "",
+    "title": "Tablesorter from JSON",
+    "url": "//jsfiddle.net/KyleMit/f18s5mwp/",
+    "author": "KyleMit",
+    "latest_version": 14,
+    "created": "2018-10-13 20:08:43"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Select2 Events Firing",
+    "url": "//jsfiddle.net/KyleMit/u9hbm54L/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2018-10-12 14:02:10"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Select2 tags limit bug",
+    "url": "//jsfiddle.net/KyleMit/u5ek1ys3/",
+    "author": "KyleMit",
+    "latest_version": 10,
+    "created": "2018-10-11 19:07:55"
+  },
+  {
+    "framework": "No-Library",
+    "version": 2,
+    "description": "",
+    "title": "Select2 tags limit bug",
+    "url": "//jsfiddle.net/KyleMit/7wpzbxt2/",
+    "author": "KyleMit",
+    "latest_version": 4,
+    "created": "2018-10-03 15:03:59"
+  },
+  {
+    "framework": "No-Library",
+    "version": 14,
+    "description": "",
+    "title": "Native Input Validation",
+    "url": "//jsfiddle.net/KyleMit/hs6Lnkza/",
+    "author": "KyleMit",
+    "latest_version": 14,
+    "created": "2018-09-27 19:07:17"
+  },
+  {
+    "framework": "No-Library",
+    "version": 171,
+    "description": "",
+    "title": "jsFiddle Finder",
+    "url": "//jsfiddle.net/KyleMit/y8ah3nf7/",
+    "author": "KyleMit",
+    "latest_version": 172,
+    "created": "2018-11-12 01:01:37"
+  },
+  {
+    "framework": "No-Library",
+    "version": 46,
+    "description": "",
+    "title": "Expandable & Sortable Table Rows",
+    "url": "//jsfiddle.net/KyleMit/dL3xqgu9/",
+    "author": "KyleMit",
+    "latest_version": 48,
+    "created": "2018-09-21 20:08:53"
+  },
+  {
+    "framework": "No-Library",
+    "version": 27,
+    "description": "",
+    "title": "CSS Generated content",
+    "url": "//jsfiddle.net/KyleMit/Lcue2top/",
+    "author": "KyleMit",
+    "latest_version": 27,
+    "created": "2018-09-20 21:09:13"
+  },
+  {
+    "framework": "jQuery",
+    "version": 3,
+    "description": "html5 confetti",
+    "title": "Confetti",
+    "url": "//jsfiddle.net/KyleMit/t0anfL12/",
+    "author": "KyleMit",
+    "latest_version": 3,
+    "created": "2018-09-19 21:09:08"
+  },
+  {
+    "framework": "No-Library",
+    "version": 28,
+    "description": "",
+    "title": "UX Relationships - Emphasis",
+    "url": "//jsfiddle.net/KyleMit/vh56sjd8/",
+    "author": "KyleMit",
+    "latest_version": 28,
+    "created": "2018-09-15 03:03:03"
+  },
+  {
+    "framework": "No-Library",
+    "version": 56,
+    "description": "",
+    "title": "UX Relationships - Proximity",
+    "url": "//jsfiddle.net/KyleMit/frbzcLtd/",
+    "author": "KyleMit",
+    "latest_version": 57,
+    "created": "2018-09-12 02:02:21"
+  },
+  {
+    "framework": "No-Library",
+    "version": 25,
+    "description": "",
+    "title": "Scaling Sprites",
+    "url": "//jsfiddle.net/KyleMit/Ldmvxbtp/",
+    "author": "KyleMit",
+    "latest_version": 25,
+    "created": "2018-09-05 04:04:19"
+  },
+  {
+    "framework": "No-Library",
+    "version": 223,
+    "description": "",
+    "title": "Soundex Calculator",
+    "url": "//jsfiddle.net/KyleMit/zyjLph3n/",
+    "author": "KyleMit",
+    "latest_version": 223,
+    "created": "2018-08-22 12:12:29"
+  },
+  {
+    "framework": "jQuery",
+    "version": 83,
+    "description": "",
+    "title": "Soundex Function",
+    "url": "//jsfiddle.net/KyleMit/9nhy26kp/",
+    "author": "KyleMit",
+    "latest_version": 83,
+    "created": "2018-08-19 02:02:17"
+  },
+  {
+    "framework": "No-Library",
+    "version": 4,
+    "description": "",
+    "title": "Balsamiq Sans Font",
+    "url": "//jsfiddle.net/KyleMit/dr1zh52m/",
+    "author": "KyleMit",
+    "latest_version": 4,
+    "created": "2018-08-18 23:11:44"
+  },
+  {
+    "framework": "No-Library",
+    "version": 6,
+    "description": "",
+    "title": "Base 64 Encoded File to JavaScript Blob",
+    "url": "//jsfiddle.net/KyleMit/woun5ht8/",
+    "author": "KyleMit",
+    "latest_version": 6,
+    "created": "2018-08-18 23:11:24"
+  },
+  {
+    "framework": "No-Library",
+    "version": 3,
+    "description": "",
+    "title": "ES6 Default Parms",
+    "url": "//jsfiddle.net/KyleMit/qfayu28w/",
+    "author": "KyleMit",
+    "latest_version": 4,
+    "created": "2018-06-20 13:01:37"
+  },
+  {
+    "framework": "No-Library",
+    "version": 8,
+    "description": "",
+    "title": "Context Menu Cursor",
+    "url": "//jsfiddle.net/1L8dom1s/",
+    "author": "no author",
+    "latest_version": 8,
+    "created": "2018-09-17 09:09:51"
+  },
+  {
+    "framework": "No-Library",
+    "version": 4,
+    "description": "",
+    "title": "Height Input Picker",
+    "url": "//jsfiddle.net/KyleMit/vmbrt02s/",
+    "author": "KyleMit",
+    "latest_version": 4,
+    "created": "2018-05-31 04:04:52"
+  },
+  {
+    "framework": "No-Library",
+    "version": 78,
+    "description": "",
+    "title": "Height Input Micro Grammar",
+    "url": "//jsfiddle.net/KyleMit/1u9769wc/",
+    "author": "KyleMit",
+    "latest_version": 86,
+    "created": "2019-05-13 16:04:27"
+  },
+  {
+    "framework": "No-Library",
+    "version": 2,
+    "description": "",
+    "title": "Outlook Flag in CSS",
+    "url": "//jsfiddle.net/KyleMit/dwdnL13a/",
+    "author": "KyleMit",
+    "latest_version": 2,
+    "created": "2018-05-03 18:06:57"
+  },
+  {
+    "framework": "No-Library",
+    "version": 6,
+    "description": "",
+    "title": "CSS Triangle Explained",
+    "url": "//jsfiddle.net/KyleMit/qzcd4qkn/",
+    "author": "KyleMit",
+    "latest_version": 7,
+    "created": "2018-05-03 14:02:24"
+  },
+  {
+    "framework": "No-Library",
+    "version": 2,
+    "description": "",
+    "title": "CSS Button",
+    "url": "//jsfiddle.net/KyleMit/117Lnfzq/",
+    "author": "KyleMit",
+    "latest_version": 2,
+    "created": "2018-05-01 21:09:52"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "First Missing Integer",
+    "url": "//jsfiddle.net/KyleMit/15ogk1et/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2018-05-01 16:04:18"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "Lined Paper in CSS",
+    "url": "//jsfiddle.net/KyleMit/4aszuqrk/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2018-05-03 15:03:27"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "FA O Sorts",
+    "url": "//jsfiddle.net/KyleMit/u0m0ycfx/",
+    "author": "KyleMit",
+    "latest_version": 22,
+    "created": "2018-04-25 17:05:37"
+  },
+  {
+    "framework": "No-Library",
+    "version": 8,
+    "description": "",
+    "title": "Informational Relevance should Match Emphasis",
+    "url": "//jsfiddle.net/KyleMit/75rfhxL0/",
+    "author": "KyleMit",
+    "latest_version": 9,
+    "created": "2018-08-18 23:11:58"
+  },
+  {
+    "framework": "jQuery",
+    "version": 4,
+    "description": "",
+    "title": "Pretty Print + Indentation",
+    "url": "//jsfiddle.net/KyleMit/cke13sfd/",
+    "author": "KyleMit",
+    "latest_version": 4,
+    "created": "2018-05-02 22:10:10"
+  },
+  {
+    "framework": "No-Library",
+    "version": 33,
+    "description": "",
+    "title": "Filter List",
+    "url": "//jsfiddle.net/KyleMit/8uc20bfj/",
+    "author": "KyleMit",
+    "latest_version": 33,
+    "created": "2018-03-30 18:06:23"
+  },
+  {
+    "framework": "No-Library",
+    "version": 49,
+    "description": "",
+    "title": "console compare",
+    "url": "//jsfiddle.net/KyleMit/fc7v0c6w/",
+    "author": "KyleMit",
+    "latest_version": 49,
+    "created": "2018-04-03 13:01:54"
+  },
+  {
+    "framework": "No-Library",
+    "version": 67,
+    "description": "",
+    "title": "Bootstrap Tab Pane Wizzard",
+    "url": "//jsfiddle.net/KyleMit/6xrp9z4t/",
+    "author": "KyleMit",
+    "latest_version": 68,
+    "created": "2018-03-16 04:04:04"
+  },
+  {
+    "framework": "No-Library",
+    "version": 22,
+    "description": "",
+    "title": "Material Input Ripple - Exploration",
+    "url": "//jsfiddle.net/KyleMit/hbdp9xpr/",
+    "author": "KyleMit",
+    "latest_version": 22,
+    "created": "2018-03-15 20:08:17"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "FezVrasta Label Alignment",
+    "url": "//jsfiddle.net/KyleMit/5x7jf8jt/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2018-03-13 21:09:06"
+  },
+  {
+    "framework": "No-Library",
+    "version": 3,
+    "description": "",
+    "title": "Bootstrap Material Design Skeleton",
+    "url": "//jsfiddle.net/KyleMit/f1hvg9vy/",
+    "author": "KyleMit",
+    "latest_version": 59,
+    "created": "2018-03-13 20:08:52"
+  },
+  {
+    "framework": "No-Library",
+    "version": 825,
+    "description": "",
+    "title": "Select2 Open Dropdown on (Tab) Focus",
+    "url": "//jsfiddle.net/KyleMit/z3tboza0/",
+    "author": "KyleMit",
+    "latest_version": 825,
+    "created": "2019-04-23 22:10:56"
+  },
+  {
+    "framework": "No-Library",
+    "version": 40,
+    "description": "",
+    "title": "Middle Click Event",
+    "url": "//jsfiddle.net/KyleMit/1jr12rd3/",
+    "author": "KyleMit",
+    "latest_version": 58,
+    "created": "2018-03-08 17:05:22"
+  },
+  {
+    "framework": "No-Library",
+    "version": 63,
+    "description": "",
+    "title": "Select2 Tab Off",
+    "url": "//jsfiddle.net/KyleMit/zo751wv3/",
+    "author": "KyleMit",
+    "latest_version": 66,
+    "created": "2018-03-03 21:09:10"
+  },
+  {
+    "framework": "No-Library",
+    "version": 35,
+    "description": "",
+    "title": "Select2 Arrow Keys",
+    "url": "//jsfiddle.net/KyleMit/nb43Lma7/",
+    "author": "KyleMit",
+    "latest_version": 87,
+    "created": "2018-03-03 18:06:59"
+  },
+  {
+    "framework": "No-Library",
+    "version": 10,
+    "description": "",
+    "title": "Vertical Align Browser Bug",
+    "url": "//jsfiddle.net/KyleMit/tu9mpyeg/",
+    "author": "KyleMit",
+    "latest_version": 19,
+    "created": "2018-02-26 16:04:21"
+  },
+  {
+    "framework": "No-Library",
+    "version": 4,
+    "description": "",
+    "title": "How to dynamically modify <select> in materialize css framework",
+    "url": "//jsfiddle.net/KyleMit/1gxqhvpa/",
+    "author": "KyleMit",
+    "latest_version": 237,
+    "created": "2018-02-23 21:09:37"
+  },
+  {
+    "framework": "No-Library",
+    "version": 18,
+    "description": "",
+    "title": "FB Text Box",
+    "url": "//jsfiddle.net/KyleMit/5rso94fj/",
+    "author": "KyleMit",
+    "latest_version": 31,
+    "created": "2018-02-22 16:04:43"
+  },
+  {
+    "framework": "No-Library",
+    "version": 9,
+    "description": "",
+    "title": "FF - mousedown styles breaks focus",
+    "url": "//jsfiddle.net/KyleMit/ba7npogp/",
+    "author": "KyleMit",
+    "latest_version": 12,
+    "created": "2018-02-18 03:03:08"
+  },
+  {
+    "framework": "No-Library",
+    "version": 22,
+    "description": "",
+    "title": "FF - Ripple Block Focus on Input Mousedown",
+    "url": "//jsfiddle.net/KyleMit/jdmkov5h/",
+    "author": "KyleMit",
+    "latest_version": 36,
+    "created": "2018-02-18 03:03:14"
+  },
+  {
+    "framework": "No-Library",
+    "version": 46,
+    "description": "",
+    "title": "Material Label Based Checkbox",
+    "url": "//jsfiddle.net/KyleMit/fj6n5vt2/",
+    "author": "KyleMit",
+    "latest_version": 68,
+    "created": "2018-02-17 01:01:32"
+  },
+  {
+    "framework": "No-Library",
+    "version": 67,
+    "description": "",
+    "title": "Label Based Checkbox",
+    "url": "//jsfiddle.net/KyleMit/xt4bm1sb/",
+    "author": "KyleMit",
+    "latest_version": 90,
+    "created": "2018-02-17 01:01:51"
+  },
+  {
+    "framework": "No-Library",
+    "version": 22,
+    "description": "",
+    "title": "BS Paper -Material Checkboxes",
+    "url": "//jsfiddle.net/KyleMit/c8tpo5ep/",
+    "author": "KyleMit",
+    "latest_version": 53,
+    "created": "2018-02-17 01:01:56"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Select List Checkboxes",
+    "url": "//jsfiddle.net/KyleMit/mqcp7f3s/",
+    "author": "KyleMit",
+    "latest_version": 413,
+    "created": "2018-02-13 20:08:22"
+  },
+  {
+    "framework": "No-Library",
+    "version": 4,
+    "description": "",
+    "title": "Programmatically invoke rippleJs",
+    "url": "//jsfiddle.net/KyleMit/7dsu3qnd/",
+    "author": "KyleMit",
+    "latest_version": 4,
+    "created": "2018-02-09 20:08:26"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "Bootstrap 4.0 Skeleton",
+    "url": "//jsfiddle.net/KyleMit/4bo2uxgs/",
+    "author": "KyleMit",
+    "latest_version": 1082,
+    "created": "2018-01-24 22:10:15"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "Bootstrap 4.0 Skeleton",
+    "url": "//jsfiddle.net/KyleMit/mqs3278o/",
+    "author": "KyleMit",
+    "latest_version": 12,
+    "created": "2018-01-24 22:10:16"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "Session Timeout",
+    "url": "//jsfiddle.net/KyleMit/omkg8k5s/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2018-01-24 05:05:15"
+  },
+  {
+    "framework": "No-Library",
+    "version": 376,
+    "description": "",
+    "title": "Hide Table Columns",
+    "url": "//jsfiddle.net/KyleMit/rr96p4vv/",
+    "author": "KyleMit",
+    "latest_version": 387,
+    "created": "2018-11-23 14:02:48"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap Flexi-Table",
+    "url": "//jsfiddle.net/KyleMit/zpc23asb/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2018-01-23 19:07:25"
+  },
+  {
+    "framework": "No-Library",
+    "version": 3,
+    "description": "",
+    "title": "AD Shield",
+    "url": "//jsfiddle.net/KyleMit/3pwz4dp7/",
+    "author": "KyleMit",
+    "latest_version": 3,
+    "created": "2018-01-20 18:06:17"
+  },
+  {
+    "framework": "No-Library",
+    "version": 47,
+    "description": "",
+    "title": "Moon over Mountains",
+    "url": "//jsfiddle.net/KyleMit/krn5L2o9/",
+    "author": "KyleMit",
+    "latest_version": 53,
+    "created": "2018-04-04 04:04:07"
+  },
+  {
+    "framework": "No-Library",
+    "version": 7,
+    "description": "",
+    "title": "Select2 vs Select",
+    "url": "//jsfiddle.net/ua6mLpo7/",
+    "author": "no author",
+    "latest_version": 34,
+    "created": "2018-02-27 19:07:46"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Character counts",
+    "url": "//jsfiddle.net/KyleMit/cdppkpft/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2017-12-22 20:08:29"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Pretty Print JSON",
+    "url": "//jsfiddle.net/KyleMit/w4ufv8qb/",
+    "author": "KyleMit",
+    "latest_version": 2,
+    "created": "2017-12-14 15:03:51"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "Bootstrap TreeView",
+    "url": "//jsfiddle.net/KyleMit/LczLqsoa/",
+    "author": "KyleMit",
+    "latest_version": 99,
+    "created": "2017-11-21 06:06:40"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Show title in Bootstrap-Select without empty element",
+    "url": "//jsfiddle.net/KyleMit/2no8wdue/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2017-11-18 14:02:28"
+  },
+  {
+    "framework": "No-Library",
+    "version": 8,
+    "description": "",
+    "title": "Bootstrap 3.3.7 Skeleton",
+    "url": "//jsfiddle.net/KyleMit/sqzL9s4z/",
+    "author": "KyleMit",
+    "latest_version": 64,
+    "created": "2018-01-24 04:04:40"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "Bootstrap 3.3.7 Skeleton",
+    "url": "//jsfiddle.net/KyleMit/t6wjox0s/",
+    "author": "KyleMit",
+    "latest_version": 26,
+    "created": "2017-11-15 18:06:20"
+  },
+  {
+    "framework": "No-Library",
+    "version": 10,
+    "description": "",
+    "title": "Bootstrap Panels",
+    "url": "//jsfiddle.net/KyleMit/m7k6Lrva/",
+    "author": "KyleMit",
+    "latest_version": 10,
+    "created": "2017-11-15 17:05:21"
+  },
+  {
+    "framework": "No-Library",
+    "version": 3,
+    "description": "",
+    "title": "Reorder Bootstrap Columns Vertically",
+    "url": "//jsfiddle.net/KyleMit/b66dwa1L/",
+    "author": "KyleMit",
+    "latest_version": 3,
+    "created": "2018-08-18 23:11:31"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Stacked Stacks",
+    "url": "//jsfiddle.net/KyleMit/gdh6jm05/",
+    "author": "KyleMit",
+    "latest_version": 2,
+    "created": "2017-10-28 15:03:42"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Highcharts Time",
+    "url": "//jsfiddle.net/KyleMit/xL1es8x3/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2017-10-18 04:04:43"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "DataTables Column Alignment",
+    "url": "//jsfiddle.net/KyleMit/x2hh9qxw/",
+    "author": "KyleMit",
+    "latest_version": 386,
+    "created": "2017-09-27 16:04:24"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "jQuery Upsert",
+    "url": "//jsfiddle.net/KyleMit/z13swd33/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2017-09-19 20:08:43"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "State Driven Buttons",
+    "url": "//jsfiddle.net/KyleMit/caf50s9x/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2017-09-19 13:01:38"
+  },
+  {
+    "framework": "jQuery",
+    "version": 6,
+    "description": "",
+    "title": "Table CSS Settings",
+    "url": "//jsfiddle.net/KyleMit/dabpc4sL/",
+    "author": "KyleMit",
+    "latest_version": 9,
+    "created": "2017-09-15 22:10:28"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Auto resizing the SELECT element",
+    "url": "//jsfiddle.net/KyleMit/3sx64k3a/",
+    "author": "KyleMit",
+    "latest_version": 217,
+    "created": "2017-09-13 21:09:43"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Get Select Element's Previous Value",
+    "url": "//jsfiddle.net/KyleMit/0jbm0czo/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2017-08-31 20:08:37"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "Array Plus Delay",
+    "url": "//jsfiddle.net/KyleMit/8qe7422x/",
+    "author": "KyleMit",
+    "latest_version": 24,
+    "created": "2017-08-03 13:01:45"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "jQuery Validate - Wrap Validation Error",
+    "url": "//jsfiddle.net/KyleMit/p2qpn8kg/",
+    "author": "KyleMit",
+    "latest_version": 58,
+    "created": "2017-07-28 19:07:15"
+  },
+  {
+    "framework": "No-Library",
+    "version": 6,
+    "description": "",
+    "title": "Wild Card Logo",
+    "url": "//jsfiddle.net/KyleMit/mqhch7s2/",
+    "author": "KyleMit",
+    "latest_version": 6,
+    "created": "2017-07-07 22:10:49"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Converting string to date in js",
+    "url": "//jsfiddle.net/KyleMit/vv6dgdf3/",
+    "author": "KyleMit",
+    "latest_version": 3,
+    "created": "2017-07-07 16:04:17"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "String To Date",
+    "url": "//jsfiddle.net/KyleMit/6rk4jpht/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2017-06-27 20:08:24"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "SVG - Run Icon",
+    "url": "//jsfiddle.net/KyleMit/gzcyzohe/",
+    "author": "KyleMit",
+    "latest_version": 7,
+    "created": "2017-05-22 22:10:34"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "material selectize example",
+    "url": "//jsfiddle.net/KyleMit/3u9kt74s/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2018-08-18 23:11:34"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Boxing an Array",
+    "url": "//jsfiddle.net/KyleMit/gy1t4as0/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2017-05-02 16:04:01"
+  },
+  {
+    "framework": "jQuery",
+    "version": 7,
+    "description": "",
+    "title": "Garmin Color Palette",
+    "url": "//jsfiddle.net/KyleMit/10okyugL/",
+    "author": "KyleMit",
+    "latest_version": 15,
+    "created": "2017-05-01 17:05:15"
+  },
+  {
+    "framework": "jQuery",
+    "version": 3,
+    "description": "",
+    "title": "DataTables.js Add/Replace Row",
+    "url": "//jsfiddle.net/KyleMit/5aaa9cmj/",
+    "author": "KyleMit",
+    "latest_version": 139,
+    "created": "2017-04-20 15:03:13"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Debug Breakpoint Interrupts Event",
+    "url": "//jsfiddle.net/KyleMit/mrkd2wfy/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2017-04-19 17:05:25"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "jQuery Validation Unobtrusive",
+    "url": "//jsfiddle.net/KyleMit/1pqrd64h/",
+    "author": "KyleMit",
+    "latest_version": 51,
+    "created": "2017-04-19 17:05:20"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Deep Clone Array",
+    "url": "//jsfiddle.net/KyleMit/zjt1pe8u/",
+    "author": "KyleMit",
+    "latest_version": 3,
+    "created": "2017-04-17 18:06:27"
+  },
+  {
+    "framework": "No-Library",
+    "version": 2,
+    "description": "",
+    "title": "String to Date",
+    "url": "//jsfiddle.net/KyleMit/bt8gwtyb/",
+    "author": "KyleMit",
+    "latest_version": 21,
+    "created": "2017-04-11 20:08:44"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "Stack Fixed Bottom",
+    "url": "//jsfiddle.net/KyleMit/8bo50gak/",
+    "author": "KyleMit",
+    "latest_version": 12,
+    "created": "2017-04-10 21:09:50"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "Dates Equal",
+    "url": "//jsfiddle.net/KyleMit/ez6sjn34/",
+    "author": "KyleMit",
+    "latest_version": 6,
+    "created": "2017-04-10 21:09:32"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "jQuery Any",
+    "url": "//jsfiddle.net/KyleMit/rr3595o7/",
+    "author": "KyleMit",
+    "latest_version": 8,
+    "created": "2017-04-07 16:04:29"
+  },
+  {
+    "framework": "No-Library",
+    "version": 2,
+    "description": "",
+    "title": "Required Field Validation",
+    "url": "//jsfiddle.net/KyleMit/d6hkz1xy/",
+    "author": "KyleMit",
+    "latest_version": 2,
+    "created": "2017-03-29 13:01:11"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Checkbox List",
+    "url": "//jsfiddle.net/KyleMit/4y5h13ez/",
+    "author": "KyleMit",
+    "latest_version": 18,
+    "created": "2017-03-22 21:09:45"
+  },
+  {
+    "framework": "jQuery",
+    "version": 4,
+    "description": "",
+    "title": "select multiple w/o Ctrl",
+    "url": "//jsfiddle.net/KyleMit/rnbt9dwv/",
+    "author": "KyleMit",
+    "latest_version": 17,
+    "created": "2017-03-24 16:04:11"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "HTML Select Options",
+    "url": "//jsfiddle.net/KyleMit/hd1sxcL6/",
+    "author": "KyleMit",
+    "latest_version": 62,
+    "created": "2017-03-17 15:03:06"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "HTML Date Box is Weird",
+    "url": "//jsfiddle.net/KyleMit/8yurdby5/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2017-03-17 15:03:09"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "jQuery UI Dialog Missing Button MCVE",
+    "url": "//jsfiddle.net/KyleMit/411n8zLf/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2017-03-17 12:12:29"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Table Spans",
+    "url": "//jsfiddle.net/KyleMit/rwrr4c50/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2017-03-10 12:12:09"
+  },
+  {
+    "framework": "No-Library",
+    "version": 4,
+    "description": "",
+    "title": "AIM Logo",
+    "url": "//jsfiddle.net/KyleMit/30sh9295/",
+    "author": "KyleMit",
+    "latest_version": 4,
+    "created": "2017-03-02 21:09:02"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Test Adjustment",
+    "url": "//jsfiddle.net/KyleMit/sxn5n6sL/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2017-02-28 19:07:11"
+  },
+  {
+    "framework": "No-Library",
+    "version": 35,
+    "description": "",
+    "title": "SVG Masks",
+    "url": "//jsfiddle.net/wd5d1znu/",
+    "author": "no author",
+    "latest_version": 39,
+    "created": "2018-02-25 09:09:48"
+  },
+  {
+    "framework": "No-Library",
+    "version": 3,
+    "description": "http://stackoverflow.com/a/22581434/1366033",
+    "title": "Strava Logo",
+    "url": "//jsfiddle.net/KyleMit/euz823zL/",
+    "author": "KyleMit",
+    "latest_version": 5,
+    "created": "2017-02-27 22:10:23"
+  },
+  {
+    "framework": "jQuery",
+    "version": 5,
+    "description": "",
+    "title": "CSS Toggle Visibility",
+    "url": "//jsfiddle.net/KyleMit/cd5hpp2d/",
+    "author": "KyleMit",
+    "latest_version": 42,
+    "created": "2018-01-24 21:09:38"
+  },
+  {
+    "framework": "No-Library",
+    "version": 4,
+    "description": "",
+    "title": "James Logo",
+    "url": "//jsfiddle.net/KyleMit/fqy3roxj/",
+    "author": "KyleMit",
+    "latest_version": 4,
+    "created": "2018-11-06 00:12:37"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Stylized Groups",
+    "url": "//jsfiddle.net/KyleMit/cgcuxqv7/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2016-12-20 16:04:02"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Drag and Drop to Inside a Form",
+    "url": "//jsfiddle.net/KyleMit/z3rk9m32/",
+    "author": "KyleMit",
+    "latest_version": 22,
+    "created": "2016-12-05 03:03:35"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "jQuery Data Tables Broken",
+    "url": "//jsfiddle.net/KyleMit/vqh39ox9/",
+    "author": "KyleMit",
+    "latest_version": 3,
+    "created": "2016-12-01 14:02:25"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "anchor onclick preventdefault",
+    "url": "//jsfiddle.net/KyleMit/fw8j9771/",
+    "author": "KyleMit",
+    "latest_version": 211,
+    "created": "2016-11-17 20:08:38"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Open Action Result in New page",
+    "url": "//jsfiddle.net/KyleMit/yty4gwcy/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2016-11-09 16:04:21"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "Working on dynamic resizing for http://kylemitofsky.com/united-shapes-of-america/index.html",
+    "title": "Grid Test",
+    "url": "//jsfiddle.net/KyleMit/g2ytx3w2/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2016-10-25 19:07:25"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Label + Data Position",
+    "url": "//jsfiddle.net/KyleMit/dnyuh3jo/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2016-10-19 21:09:42"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "jQuery Data Table Add Row",
+    "url": "//jsfiddle.net/KyleMit/az1deo3r/",
+    "author": "KyleMit",
+    "latest_version": 764,
+    "created": "2016-10-05 21:09:38"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Live Update",
+    "url": "//jsfiddle.net/KyleMit/v1q9vppv/",
+    "author": "KyleMit",
+    "latest_version": 4,
+    "created": "2016-09-30 15:03:12"
+  },
+  {
+    "framework": "No-Library",
+    "version": 2,
+    "description": "",
+    "title": "Inline Form Elements",
+    "url": "//jsfiddle.net/KyleMit/dqjk0q8d/",
+    "author": "KyleMit",
+    "latest_version": 2,
+    "created": "2018-08-18 23:11:09"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Custom Cursor",
+    "url": "//jsfiddle.net/KyleMit/eqrb70wj/",
+    "author": "KyleMit",
+    "latest_version": 5,
+    "created": "2016-07-12 18:06:32"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "confirm onclick",
+    "url": "//jsfiddle.net/KyleMit/dde6poj0/",
+    "author": "KyleMit",
+    "latest_version": 13,
+    "created": "2016-06-03 18:06:16"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "CSS Sign",
+    "url": "//jsfiddle.net/KyleMit/t9a9kznd/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2015-11-18 22:10:56"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Acrostic",
+    "url": "//jsfiddle.net/KyleMit/6mprr522/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2015-11-04 03:03:00"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "Spell Checking",
+    "url": "//jsfiddle.net/KyleMit/yj2s6sj1/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2015-10-23 20:08:39"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Color Wheel",
+    "url": "//jsfiddle.net/KyleMit/x81jt94d/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2015-10-20 21:09:18"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Using text-overflow: ellipsis;",
+    "url": "//jsfiddle.net/KyleMit/1nt8spku/",
+    "author": "KyleMit",
+    "latest_version": 9,
+    "created": "2015-10-13 20:08:43"
+  },
+  {
+    "framework": "No-Library",
+    "version": 3,
+    "description": "",
+    "title": "Text Selection",
+    "url": "//jsfiddle.net/KyleMit/av3hngLy/",
+    "author": "KyleMit",
+    "latest_version": 5,
+    "created": "2015-09-28 15:03:01"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Create HTML w/ JavaScript",
+    "url": "//jsfiddle.net/KyleMit/dpt9k2sw/",
+    "author": "KyleMit",
+    "latest_version": 22,
+    "created": "2015-09-23 00:12:52"
+  },
+  {
+    "framework": "jQuery",
+    "version": 9,
+    "description": "",
+    "title": "CSS Specificity Tests",
+    "url": "//jsfiddle.net/KyleMit/L8hqpptw/",
+    "author": "KyleMit",
+    "latest_version": 9,
+    "created": "2018-08-18 23:11:17"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap Multiselect Skeleton",
+    "url": "//jsfiddle.net/KyleMit/vg6oLvxo/",
+    "author": "KyleMit",
+    "latest_version": 465,
+    "created": "2015-07-17 16:04:14"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Nutrition Facts",
+    "url": "//jsfiddle.net/KyleMit/mpqxukxn/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2015-07-02 21:09:03"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Select 2 Wrap",
+    "url": "//jsfiddle.net/KyleMit/sfuanbLL/",
+    "author": "KyleMit",
+    "latest_version": 103,
+    "created": "2015-06-15 16:04:43"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Select 2 Wrap",
+    "url": "//jsfiddle.net/KyleMit/jj7apvky/",
+    "author": "KyleMit",
+    "latest_version": 824,
+    "created": "2015-06-11 20:08:40"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap Modal AJAX Demo",
+    "url": "//jsfiddle.net/KyleMit/5zvjo7us/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2015-05-21 22:10:19"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "SO - 23590396",
+    "url": "//jsfiddle.net/KyleMit/ph8ue5j5/",
+    "author": "KyleMit",
+    "latest_version": 2,
+    "created": "2015-04-16 21:09:52"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Image Sources",
+    "url": "//jsfiddle.net/KyleMit/y4qpwb7p/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2015-04-16 03:03:17"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Datatables w/ Boostrap Dropdown",
+    "url": "//jsfiddle.net/KyleMit/gc7xkmtc/",
+    "author": "KyleMit",
+    "latest_version": 231,
+    "created": "2015-03-31 16:04:16"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "Facebook Menu",
+    "url": "//jsfiddle.net/KyleMit/qfmmv8cp/",
+    "author": "KyleMit",
+    "latest_version": 2,
+    "created": "2015-03-29 23:11:04"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Center Resize Issue",
+    "url": "//jsfiddle.net/KyleMit/vonk6zav/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2015-03-28 15:03:14"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "Racko",
+    "url": "//jsfiddle.net/KyleMit/mr7y67ec/",
+    "author": "KyleMit",
+    "latest_version": 2,
+    "created": "2015-03-25 16:04:29"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap-Slider offset issue",
+    "url": "//jsfiddle.net/KyleMit/dy0qobyp/",
+    "author": "KyleMit",
+    "latest_version": 18,
+    "created": "2015-03-20 12:12:37"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Resources Test",
+    "url": "//jsfiddle.net/KyleMit/ebkg5kwh/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2015-03-17 22:10:19"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Sample Runner",
+    "url": "//jsfiddle.net/KyleMit/w1f0wtwL/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2015-03-17 03:03:18"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Extended Default Function",
+    "url": "//jsfiddle.net/KyleMit/9ux30x01/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2015-03-13 21:09:11"
+  },
+  {
+    "framework": "No-Library",
+    "version": 69,
+    "description": "",
+    "title": "jQuery Validation",
+    "url": "//jsfiddle.net/KyleMit/o5yjLeba/",
+    "author": "KyleMit",
+    "latest_version": 69,
+    "created": "2018-11-20 19:07:02"
+  },
+  {
+    "framework": "No-Library",
+    "version": 3,
+    "description": "",
+    "title": "Loan Calculator",
+    "url": "//jsfiddle.net/KyleMit/x0krm2dx/",
+    "author": "KyleMit",
+    "latest_version": 16,
+    "created": "2015-02-11 20:08:05"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Live Search Select Picker",
+    "url": "//jsfiddle.net/KyleMit/9abm0hhy/",
+    "author": "KyleMit",
+    "latest_version": 3434,
+    "created": "2015-01-29 00:12:24"
+  },
+  {
+    "framework": "No-Library",
+    "version": 5,
+    "description": "",
+    "title": "Stack SVG",
+    "url": "//jsfiddle.net/KyleMit/03gv48jg/",
+    "author": "KyleMit",
+    "latest_version": 5,
+    "created": "2018-10-17 00:12:10"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Regex Find and Replace Wrappers",
+    "url": "//jsfiddle.net/KyleMit/8gao3v1x/",
+    "author": "KyleMit",
+    "latest_version": 39,
+    "created": "2014-12-19 13:01:31"
+  },
+  {
+    "framework": "No-Library",
+    "version": 60,
+    "description": "",
+    "title": "SVG Easy Button",
+    "url": "//jsfiddle.net/KyleMit/46raruoj/",
+    "author": "KyleMit",
+    "latest_version": 60,
+    "created": "2018-10-17 01:01:54"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Alert Changes",
+    "url": "//jsfiddle.net/KyleMit/huskggqo/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2014-11-03 20:08:32"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "jQuery vs. CSS",
+    "url": "//jsfiddle.net/KyleMit/pxx8pk6v/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2014-10-28 17:05:56"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "http://angularjs.org/",
+    "title": "Angular: Tooltip on disabled input",
+    "url": "//jsfiddle.net/KyleMit/27380yvf/",
+    "author": "KyleMit",
+    "latest_version": 269,
+    "created": "2014-10-26 23:11:51"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3 - Table Grid",
+    "url": "//jsfiddle.net/KyleMit/4ed1swp9/",
+    "author": "KyleMit",
+    "latest_version": 143,
+    "created": "2014-10-25 19:07:58"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3 - Form inside modal",
+    "url": "//jsfiddle.net/KyleMit/0fscmf3L/",
+    "author": "KyleMit",
+    "latest_version": 5845,
+    "created": "2014-10-25 16:04:49"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Javascript Href",
+    "url": "//jsfiddle.net/KyleMit/8dtk1t9k/",
+    "author": "KyleMit",
+    "latest_version": 148,
+    "created": "2014-10-17 20:08:54"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Date GetMonth Issue",
+    "url": "//jsfiddle.net/KyleMit/jLbbk27v/",
+    "author": "KyleMit",
+    "latest_version": 333,
+    "created": "2014-10-16 16:04:21"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Date Range Picker",
+    "url": "//jsfiddle.net/KyleMit/wrgonq14/",
+    "author": "KyleMit",
+    "latest_version": 19,
+    "created": "2014-10-16 14:02:07"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "Chrome Dev Tools Swatch Bug",
+    "url": "//jsfiddle.net/KyleMit/werzgreb/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2014-10-16 03:03:33"
+  },
+  {
+    "framework": "No-Library",
+    "version": 10,
+    "description": "",
+    "title": "Bootstrap 3 - Vertical Align",
+    "url": "//jsfiddle.net/KyleMit/dr7catnx/",
+    "author": "KyleMit",
+    "latest_version": 10,
+    "created": "2018-09-21 21:09:21"
+  },
+  {
+    "framework": "No-Library",
+    "version": 55,
+    "description": "",
+    "title": "Bootstrap 3 - Nth Row",
+    "url": "//jsfiddle.net/KyleMit/hmbautuL/",
+    "author": "KyleMit",
+    "latest_version": 56,
+    "created": "2018-09-21 20:08:15"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Hover Element",
+    "url": "//jsfiddle.net/KyleMit/kv66fzsb/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2014-10-10 00:12:13"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3 - Slide Start",
+    "url": "//jsfiddle.net/KyleMit/8w6fn4zb/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2014-10-07 01:01:11"
+  },
+  {
+    "framework": "No-Library",
+    "version": 254,
+    "description": "",
+    "title": "Bootstrap 3 - Constrain Dropdown Width",
+    "url": "//jsfiddle.net/KyleMit/6cu8f43m/",
+    "author": "KyleMit",
+    "latest_version": 256,
+    "created": "2018-09-21 21:09:09"
+  },
+  {
+    "framework": "No-Library",
+    "version": 430,
+    "description": "",
+    "title": "Bootstrap 3 - Second Nav Row",
+    "url": "//jsfiddle.net/KyleMit/pbkf1280/",
+    "author": "KyleMit",
+    "latest_version": 430,
+    "created": "2018-09-21 21:09:28"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Post Fiddle",
+    "url": "//jsfiddle.net/KyleMit/93bwq0qj/",
+    "author": "KyleMit",
+    "latest_version": 4,
+    "created": "2014-09-17 02:02:40"
+  },
+  {
+    "framework": "Mootools",
+    "version": 0,
+    "description": "",
+    "title": "Load a fiddle from POST",
+    "url": "//jsfiddle.net/KyleMit/dy5yrppn/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2014-09-17 02:02:03"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "Ctrl + Q",
+    "title": "Blockqoute Hotkey",
+    "url": "//jsfiddle.net/KyleMit/ynhq76k7/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2014-09-13 06:06:23"
+  },
+  {
+    "framework": "No-Library",
+    "version": 95,
+    "description": "",
+    "title": "Bootstrap 3 Dismiss Tag",
+    "url": "//jsfiddle.net/KyleMit/spvywgry/",
+    "author": "KyleMit",
+    "latest_version": 98,
+    "created": "2018-09-21 22:10:15"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "Bootstrap 3 - Dropdown Select",
+    "url": "//jsfiddle.net/KyleMit/5p341amh/",
+    "author": "KyleMit",
+    "latest_version": 444,
+    "created": "2014-09-15 15:03:11"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3 - Dynamic Load Images",
+    "url": "//jsfiddle.net/KyleMit/tbq5kesc/",
+    "author": "KyleMit",
+    "latest_version": 32,
+    "created": "2014-09-11 20:08:09"
+  },
+  {
+    "framework": "jQuery",
+    "version": 5,
+    "description": "",
+    "title": "Patient Profile Menu Mockup",
+    "url": "//jsfiddle.net/KyleMit/8cm6yz30/",
+    "author": "KyleMit",
+    "latest_version": 5,
+    "created": "2018-09-21 22:10:37"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "Voice - Incremental Show",
+    "url": "//jsfiddle.net/KyleMit/xc3hhL4z/",
+    "author": "KyleMit",
+    "latest_version": 3,
+    "created": "2014-09-06 23:11:49"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3 - Extra Tab Panel",
+    "url": "//jsfiddle.net/KyleMit/pp9e2hkd/",
+    "author": "KyleMit",
+    "latest_version": 97,
+    "created": "2014-09-06 14:02:05"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3 - Modal with Alternate Keypress",
+    "url": "//jsfiddle.net/KyleMit/d0dopee2/",
+    "author": "KyleMit",
+    "latest_version": 24,
+    "created": "2014-09-05 21:09:59"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "CSS Circle",
+    "url": "//jsfiddle.net/KyleMit/esm3jssy/",
+    "author": "KyleMit",
+    "latest_version": 213,
+    "created": "2014-09-03 19:07:36"
+  },
+  {
+    "framework": "jQuery",
+    "version": 3,
+    "description": "",
+    "title": "Typeahead Categories",
+    "url": "//jsfiddle.net/KyleMit/xk3pscgx/",
+    "author": "KyleMit",
+    "latest_version": 145,
+    "created": "2014-09-06 18:06:30"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "Bootstrap 3 Validation Plugin with Glyphicons",
+    "title": "Bootstrap 3 + Validation + Glyphicons",
+    "url": "//jsfiddle.net/KyleMit/c7yj2633/",
+    "author": "KyleMit",
+    "latest_version": 16,
+    "created": "2014-08-27 17:05:44"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Bootstrap 3 - Dynamic Columns",
+    "url": "//jsfiddle.net/KyleMit/pgt6tczj/",
+    "author": "KyleMit",
+    "latest_version": 132,
+    "created": "2014-08-25 01:01:37"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Bootstrap 3 - Radio Button Group",
+    "url": "//jsfiddle.net/KyleMit/0nevkwyn/",
+    "author": "KyleMit",
+    "latest_version": 2694,
+    "created": "2014-08-22 15:03:45"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Border Box",
+    "url": "//jsfiddle.net/KyleMit/h6gxaem2/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2014-08-22 02:02:37"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "CSS Tooltip",
+    "url": "//jsfiddle.net/KyleMit/hvgszrrr/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2014-08-21 18:06:23"
+  },
+  {
+    "framework": "jQuery",
+    "version": 4,
+    "description": "",
+    "title": "Bootstrap 3 - iOS click modal",
+    "url": "//jsfiddle.net/KyleMit/76wvpv6p/",
+    "author": "KyleMit",
+    "latest_version": 158,
+    "created": "2014-08-18 01:01:14"
+  },
+  {
+    "framework": "jQuery",
+    "version": 3,
+    "description": "",
+    "title": "Bootstrap Mulitselect - Constrained Width",
+    "url": "//jsfiddle.net/KyleMit/7yq7fvsq/",
+    "author": "KyleMit",
+    "latest_version": 553,
+    "created": "2014-12-12 14:02:09"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap Mulitselect - Inside Accordion",
+    "url": "//jsfiddle.net/KyleMit/eo4x3gsj/",
+    "author": "KyleMit",
+    "latest_version": 37,
+    "created": "2014-08-12 21:09:21"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap Mulitselect - Grouped Dataprovider",
+    "url": "//jsfiddle.net/KyleMit/ezyx84xt/",
+    "author": "KyleMit",
+    "latest_version": 53,
+    "created": "2014-08-12 21:09:36"
+  },
+  {
+    "framework": "jQuery",
+    "version": 10,
+    "description": "",
+    "title": "Bootstrap Mulitselect",
+    "url": "//jsfiddle.net/KyleMit/3s02xead/",
+    "author": "KyleMit",
+    "latest_version": 16,
+    "created": "2015-04-24 19:07:14"
+  },
+  {
+    "framework": "jQuery",
+    "version": 3,
+    "description": "",
+    "title": "MultiSelect Tooltips",
+    "url": "//jsfiddle.net/KyleMit/0bm03sy4/",
+    "author": "KyleMit",
+    "latest_version": 79,
+    "created": "2014-08-12 21:09:45"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Resize Pop Up Window",
+    "url": "//jsfiddle.net/KyleMit/69k23/",
+    "author": "KyleMit",
+    "latest_version": 6,
+    "created": "2014-08-06 14:02:15"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Bootstrap 3 - Change NavbarBreakpoint",
+    "url": "//jsfiddle.net/KyleMit/n97s3/",
+    "author": "KyleMit",
+    "latest_version": 144,
+    "created": "2014-08-01 22:10:45"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3 - Multiple Affix",
+    "url": "//jsfiddle.net/KyleMit/Dd7Hq/",
+    "author": "KyleMit",
+    "latest_version": 14,
+    "created": "2014-08-01 19:07:10"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Border Radius + Padding",
+    "url": "//jsfiddle.net/KyleMit/NET9c/",
+    "author": "KyleMit",
+    "latest_version": 56,
+    "created": "2014-07-30 23:11:44"
+  },
+  {
+    "framework": "No-Library",
+    "version": 3,
+    "description": "",
+    "title": "Bootstrap 3 - img-cricle",
+    "url": "//jsfiddle.net/KyleMit/3hcFZ/",
+    "author": "KyleMit",
+    "latest_version": 114,
+    "created": "2014-07-30 22:10:48"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Bootstrap 3 - Label Width",
+    "url": "//jsfiddle.net/KyleMit/3e3GP/",
+    "author": "KyleMit",
+    "latest_version": 86,
+    "created": "2014-07-29 21:09:35"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Bootstrap 3 - Rows Error",
+    "url": "//jsfiddle.net/KyleMit/4n2Dr/",
+    "author": "KyleMit",
+    "latest_version": 3,
+    "created": "2014-07-29 13:01:07"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "CSS Specificity Example",
+    "url": "//jsfiddle.net/KyleMit/evwK4/",
+    "author": "KyleMit",
+    "latest_version": 86,
+    "created": "2014-07-29 03:03:41"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "Bootstrap 3 - Tooltip Exists",
+    "url": "//jsfiddle.net/KyleMit/xxXu4/",
+    "author": "KyleMit",
+    "latest_version": 16,
+    "created": "2014-07-27 16:04:49"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3.0 - Reuse Dropdown",
+    "url": "//jsfiddle.net/KyleMit/K65ww/",
+    "author": "KyleMit",
+    "latest_version": 60,
+    "created": "2014-07-26 21:09:52"
+  },
+  {
+    "framework": "jQuery",
+    "version": 6,
+    "description": "",
+    "title": "Bootstrap 3 - Custom Tooltip",
+    "url": "//jsfiddle.net/KyleMit/xpeLr/",
+    "author": "KyleMit",
+    "latest_version": 194,
+    "created": "2014-07-27 16:04:07"
+  },
+  {
+    "framework": "jQuery",
+    "version": 3,
+    "description": "",
+    "title": "Bootstrap 3 Clear Rows",
+    "url": "//jsfiddle.net/KyleMit/Ewu5N/",
+    "author": "KyleMit",
+    "latest_version": 141,
+    "created": "2014-07-26 18:06:51"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3 - Modal Sender",
+    "url": "//jsfiddle.net/KyleMit/THBm7/",
+    "author": "KyleMit",
+    "latest_version": 139,
+    "created": "2014-07-25 21:09:55"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3 - Modal Sender",
+    "url": "//jsfiddle.net/KyleMit/8U3Nc/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2014-07-25 21:09:31"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Bootstrap 3 - Full Page Width Child",
+    "url": "//jsfiddle.net/KyleMit/V3e3g/",
+    "author": "KyleMit",
+    "latest_version": 2,
+    "created": "2014-07-25 21:09:20"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "CSS Loading Icon",
+    "url": "//jsfiddle.net/KyleMit/hKzwK/",
+    "author": "KyleMit",
+    "latest_version": 29,
+    "created": "2014-07-25 16:04:18"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "CSS Specificity",
+    "url": "//jsfiddle.net/KyleMit/PUJP9/",
+    "author": "KyleMit",
+    "latest_version": 3,
+    "created": "2014-07-24 19:07:48"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Bootstrap 3 - Clone Tags",
+    "url": "//jsfiddle.net/KyleMit/fV65e/",
+    "author": "KyleMit",
+    "latest_version": 26,
+    "created": "2014-07-24 18:06:16"
+  },
+  {
+    "framework": "jQuery",
+    "version": 451,
+    "description": "",
+    "title": "Bootstrap 3 - Vertically Align Glyphicon",
+    "url": "//jsfiddle.net/KyleMit/Z9ZFr/",
+    "author": "KyleMit",
+    "latest_version": 676,
+    "created": "2018-02-26 16:04:01"
+  },
+  {
+    "framework": "No-Library",
+    "version": 118,
+    "description": "",
+    "title": "Bootstrap 3 - Glyphicon Background",
+    "url": "//jsfiddle.net/KyleMit/8dTgv/",
+    "author": "KyleMit",
+    "latest_version": 164,
+    "created": "2018-07-30 19:07:46"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3 - Default Modal",
+    "url": "//jsfiddle.net/KyleMit/HDChy/",
+    "author": "KyleMit",
+    "latest_version": 56,
+    "created": "2014-07-21 21:09:00"
+  },
+  {
+    "framework": "jQuery",
+    "version": 3,
+    "description": "",
+    "title": "Bootstrap 3 - Layout",
+    "url": "//jsfiddle.net/KyleMit/NDN7W/",
+    "author": "KyleMit",
+    "latest_version": 23,
+    "created": "2014-07-21 20:08:41"
+  },
+  {
+    "framework": "No-Library",
+    "version": 81,
+    "description": "",
+    "title": "Text Columns",
+    "url": "//jsfiddle.net/KyleMit/jhRWH/",
+    "author": "KyleMit",
+    "latest_version": 139,
+    "created": "2017-09-15 19:07:56"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Bootstrap 3 - Modal Hidden",
+    "url": "//jsfiddle.net/KyleMit/zYrP2/",
+    "author": "KyleMit",
+    "latest_version": 16,
+    "created": "2014-07-21 16:04:55"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3 - Switch Large",
+    "url": "//jsfiddle.net/KyleMit/VTv2j/",
+    "author": "KyleMit",
+    "latest_version": 512,
+    "created": "2014-07-21 15:03:53"
+  },
+  {
+    "framework": "No-Library",
+    "version": 2,
+    "description": "",
+    "title": "Bootstrap - Sideways Collapse",
+    "url": "//jsfiddle.net/KyleMit/S9hhP/",
+    "author": "KyleMit",
+    "latest_version": 3039,
+    "created": "2014-07-18 21:09:14"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3 - Datepicker",
+    "url": "//jsfiddle.net/KyleMit/cG88x/",
+    "author": "KyleMit",
+    "latest_version": 20,
+    "created": "2014-07-17 22:10:02"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3 - Always Open Navbar",
+    "url": "//jsfiddle.net/KyleMit/m49Bb/",
+    "author": "KyleMit",
+    "latest_version": 285,
+    "created": "2014-07-17 20:08:00"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Bootstrap 3 - Show More Section",
+    "url": "//jsfiddle.net/KyleMit/MD2FP/",
+    "author": "KyleMit",
+    "latest_version": 179,
+    "created": "2014-07-16 18:06:56"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 2.3.2 - Button with glyph",
+    "url": "//jsfiddle.net/KyleMit/jE9C3/",
+    "author": "KyleMit",
+    "latest_version": 13,
+    "created": "2014-07-16 13:01:12"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3 - Icon Placement",
+    "url": "//jsfiddle.net/KyleMit/eSt3s/",
+    "author": "KyleMit",
+    "latest_version": 105,
+    "created": "2014-07-14 22:10:13"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Bootstrap 3 - Progress Bar with Circle",
+    "url": "//jsfiddle.net/KyleMit/wD374/",
+    "author": "KyleMit",
+    "latest_version": 262,
+    "created": "2014-07-14 20:08:57"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Bootstrap 3 - Navbar with Button",
+    "url": "//jsfiddle.net/KyleMit/QjqJe/",
+    "author": "KyleMit",
+    "latest_version": 13,
+    "created": "2014-07-14 15:03:38"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3 - Navbar without collapse",
+    "url": "//jsfiddle.net/KyleMit/82wL6/",
+    "author": "KyleMit",
+    "latest_version": 129,
+    "created": "2014-07-11 20:08:09"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "Bootstrap 3 - Datepicker",
+    "url": "//jsfiddle.net/KyleMit/g2WYe/",
+    "author": "KyleMit",
+    "latest_version": 230,
+    "created": "2014-07-11 16:04:33"
+  },
+  {
+    "framework": "No-Library",
+    "version": 968,
+    "description": "",
+    "title": "Bootstrap 3 - Validation States",
+    "url": "//jsfiddle.net/KyleMit/eu9Lv/",
+    "author": "KyleMit",
+    "latest_version": 2374,
+    "created": "2018-02-01 13:01:14"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "Bootstrap - Pointer Actions",
+    "url": "//jsfiddle.net/KyleMit/U63qA/",
+    "author": "KyleMit",
+    "latest_version": 56,
+    "created": "2015-01-05 18:06:58"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3 - input-group",
+    "url": "//jsfiddle.net/KyleMit/Z4ntn/",
+    "author": "KyleMit",
+    "latest_version": 701,
+    "created": "2014-07-09 20:08:03"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1712,
+    "description": "",
+    "title": "Bootstrap 3 - Nested Rows",
+    "url": "//jsfiddle.net/KyleMit/fbtw6/",
+    "author": "KyleMit",
+    "latest_version": 2859,
+    "created": "2018-01-24 22:10:36"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3 - Fragment URI",
+    "url": "//jsfiddle.net/KyleMit/S4GzK/",
+    "author": "KyleMit",
+    "latest_version": 39,
+    "created": "2014-07-08 22:10:28"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "Bootstrap 3 - Expander Menu",
+    "url": "//jsfiddle.net/KyleMit/kz655/",
+    "author": "KyleMit",
+    "latest_version": 74,
+    "created": "2014-07-08 21:09:46"
+  },
+  {
+    "framework": "No-Library",
+    "version": 189,
+    "description": "",
+    "title": "Bootstrap 3 - Social Icons",
+    "url": "//jsfiddle.net/KyleMit/y4tS8/",
+    "author": "KyleMit",
+    "latest_version": 190,
+    "created": "2018-09-24 12:12:56"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "Bootstrap 3 - Split Button Dropdown",
+    "url": "//jsfiddle.net/KyleMit/p59Fq/",
+    "author": "KyleMit",
+    "latest_version": 73,
+    "created": "2014-07-08 13:01:53"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Click Outside Element",
+    "url": "//jsfiddle.net/KyleMit/Fv2fY/",
+    "author": "KyleMit",
+    "latest_version": 5,
+    "created": "2014-07-07 15:03:08"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "jQuery One",
+    "url": "//jsfiddle.net/KyleMit/23H7J/",
+    "author": "KyleMit",
+    "latest_version": 80,
+    "created": "2014-07-05 18:06:44"
+  },
+  {
+    "framework": "jQuery",
+    "version": 4,
+    "description": "",
+    "title": "Select Text On Focus",
+    "url": "//jsfiddle.net/KyleMit/ccf7S/",
+    "author": "KyleMit",
+    "latest_version": 130,
+    "created": "2014-07-05 20:08:25"
+  },
+  {
+    "framework": "jQuery",
+    "version": 6,
+    "description": "",
+    "title": "Placeholder Polyfill",
+    "url": "//jsfiddle.net/KyleMit/An9t6/",
+    "author": "KyleMit",
+    "latest_version": 8,
+    "created": "2014-07-04 18:06:07"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Choosing a Background",
+    "url": "//jsfiddle.net/KyleMit/e5g35/",
+    "author": "KyleMit",
+    "latest_version": 4,
+    "created": "2014-07-03 15:03:57"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1650,
+    "description": "",
+    "title": "Bootstrap 3 - Tabs",
+    "url": "//jsfiddle.net/KyleMit/2VmmW/",
+    "author": "KyleMit",
+    "latest_version": 2516,
+    "created": "2018-03-05 14:02:18"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Bootstrap 3 - Switch",
+    "url": "//jsfiddle.net/KyleMit/nn6dU/",
+    "author": "KyleMit",
+    "latest_version": 107,
+    "created": "2014-07-02 16:04:00"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Bootstrap 3 - Collapse Navbar",
+    "url": "//jsfiddle.net/KyleMit/k98Bn/",
+    "author": "KyleMit",
+    "latest_version": 146,
+    "created": "2014-07-02 15:03:46"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "Bootstrap 3 - Show Desktop View",
+    "url": "//jsfiddle.net/KyleMit/VXR6v/",
+    "author": "KyleMit",
+    "latest_version": 73,
+    "created": "2014-06-30 22:10:28"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3 - Center Navbar",
+    "url": "//jsfiddle.net/KyleMit/deE3j/",
+    "author": "KyleMit",
+    "latest_version": 16,
+    "created": "2014-06-27 19:07:39"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Likert scale table in HTML",
+    "url": "//jsfiddle.net/KyleMit/8vu8v/",
+    "author": "KyleMit",
+    "latest_version": 119,
+    "created": "2014-06-26 04:04:06"
+  },
+  {
+    "framework": "No-Library",
+    "version": 2,
+    "description": "",
+    "title": "Likert scale in HTML",
+    "url": "//jsfiddle.net/KyleMit/Z4LYe/",
+    "author": "KyleMit",
+    "latest_version": 164,
+    "created": "2014-06-26 04:04:12"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3 - Inline Form Checkbox Alignment",
+    "url": "//jsfiddle.net/KyleMit/m3RHG/",
+    "author": "KyleMit",
+    "latest_version": 422,
+    "created": "2014-06-25 20:08:29"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Show Page Size",
+    "url": "//jsfiddle.net/KyleMit/5PFak/",
+    "author": "KyleMit",
+    "latest_version": 213,
+    "created": "2014-06-25 20:08:41"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3 - SubMenu",
+    "url": "//jsfiddle.net/KyleMit/Buwm8/",
+    "author": "KyleMit",
+    "latest_version": 79,
+    "created": "2014-06-25 19:07:54"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3 - Scrollspy Current Position",
+    "url": "//jsfiddle.net/KyleMit/U7d2y/",
+    "author": "KyleMit",
+    "latest_version": 67,
+    "created": "2014-06-20 21:09:21"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Page Down Editor",
+    "url": "//jsfiddle.net/KyleMit/dezBE/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2014-06-09 05:05:07"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Bootstrap - Grid Question",
+    "url": "//jsfiddle.net/KyleMit/wzwxJ/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2014-06-08 18:06:10"
+  },
+  {
+    "framework": "jQuery",
+    "version": 3,
+    "description": "",
+    "title": "Bootstrap Tabs with CK Editor",
+    "url": "//jsfiddle.net/KyleMit/E6Tm4/",
+    "author": "KyleMit",
+    "latest_version": 74,
+    "created": "2014-06-05 16:04:40"
+  },
+  {
+    "framework": "jQuery",
+    "version": 5,
+    "description": "",
+    "title": "Test Dialog",
+    "url": "//jsfiddle.net/KyleMit/fsapL/",
+    "author": "KyleMit",
+    "latest_version": 5,
+    "created": "2014-05-27 21:09:31"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Bootstrap 3 - Thumbnail Grid",
+    "url": "//jsfiddle.net/KyleMit/yau93/",
+    "author": "KyleMit",
+    "latest_version": 38,
+    "created": "2014-05-23 21:09:25"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "TEST HTML",
+    "url": "//jsfiddle.net/KyleMit/DZbt5/",
+    "author": "KyleMit",
+    "latest_version": 5,
+    "created": "2014-05-22 22:10:58"
+  },
+  {
+    "framework": "No-Library",
+    "version": 8,
+    "description": "",
+    "title": "JQuery Dialog with Frame",
+    "url": "//jsfiddle.net/KyleMit/uqDUL/",
+    "author": "KyleMit",
+    "latest_version": 239,
+    "created": "2014-05-22 22:10:44"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3.0 Modal Demo",
+    "url": "//jsfiddle.net/KyleMit/YJTLk/",
+    "author": "KyleMit",
+    "latest_version": 10,
+    "created": "2014-05-22 16:04:08"
+  },
+  {
+    "framework": "jQuery",
+    "version": 6,
+    "description": "",
+    "title": "Bootstrap 3.0 - Container Fluid",
+    "url": "//jsfiddle.net/KyleMit/p23EB/",
+    "author": "KyleMit",
+    "latest_version": 520,
+    "created": "2014-05-20 20:08:54"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "Bootstrap 3.0 - Grid Layout",
+    "url": "//jsfiddle.net/KyleMit/pe7UC/",
+    "author": "KyleMit",
+    "latest_version": 304,
+    "created": "2014-05-20 19:07:29"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Editable Fields",
+    "url": "//jsfiddle.net/KyleMit/hkeMH/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2014-05-19 16:04:24"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap - Column with position fixed.",
+    "url": "//jsfiddle.net/KyleMit/3RkM3/",
+    "author": "KyleMit",
+    "latest_version": 1259,
+    "created": "2014-05-12 21:09:12"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "Bootstrap - Carousel with descriptions",
+    "url": "//jsfiddle.net/KyleMit/kQ5WC/",
+    "author": "KyleMit",
+    "latest_version": 104,
+    "created": "2014-05-07 15:03:46"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap - Vertically Align Columns",
+    "url": "//jsfiddle.net/KyleMit/2cPcA/",
+    "author": "KyleMit",
+    "latest_version": 2827,
+    "created": "2014-05-07 04:04:12"
+  },
+  {
+    "framework": "jQuery",
+    "version": 4,
+    "description": "",
+    "title": "Draggable Buttons",
+    "url": "//jsfiddle.net/KyleMit/8g62E/",
+    "author": "KyleMit",
+    "latest_version": 269,
+    "created": "2014-05-06 21:09:48"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3.0 - Grid System",
+    "url": "//jsfiddle.net/KyleMit/vvWEJ/",
+    "author": "KyleMit",
+    "latest_version": 33,
+    "created": "2014-05-06 19:07:34"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Bootstrap 3.0 - Grid System",
+    "url": "//jsfiddle.net/KyleMit/Gt25L/",
+    "author": "KyleMit",
+    "latest_version": 2885,
+    "created": "2014-05-06 19:07:38"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "jQuery Tooltip",
+    "url": "//jsfiddle.net/KyleMit/5cAH2/",
+    "author": "KyleMit",
+    "latest_version": 80,
+    "created": "2014-05-06 16:04:56"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Knockout Visible Bindings on Modal",
+    "url": "//jsfiddle.net/KyleMit/p4nyV/",
+    "author": "KyleMit",
+    "latest_version": 161,
+    "created": "2014-05-05 21:09:37"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Bootstrap Responsive Helper Classes",
+    "url": "//jsfiddle.net/KyleMit/pH8xv/",
+    "author": "KyleMit",
+    "latest_version": 20,
+    "created": "2014-05-02 15:03:15"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Detect click outside element",
+    "url": "//jsfiddle.net/KyleMit/tHCUB/",
+    "author": "KyleMit",
+    "latest_version": 485,
+    "created": "2014-05-02 15:03:47"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "Bootstrap Navbar Spacing",
+    "url": "//jsfiddle.net/KyleMit/XXVXH/",
+    "author": "KyleMit",
+    "latest_version": 5,
+    "created": "2014-05-02 15:03:43"
+  },
+  {
+    "framework": "jQuery",
+    "version": 3,
+    "description": "",
+    "title": "Bootstrap 6 / 12 Column Layout",
+    "url": "//jsfiddle.net/KyleMit/dpW85/",
+    "author": "KyleMit",
+    "latest_version": 20,
+    "created": "2014-05-02 16:04:24"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Diana's Birthday Countdown",
+    "url": "//jsfiddle.net/KyleMit/JLsdz/",
+    "author": "KyleMit",
+    "latest_version": 97,
+    "created": "2014-04-26 20:08:15"
+  },
+  {
+    "framework": "jQuery",
+    "version": 9,
+    "description": "",
+    "title": "Multiple Dialogs",
+    "url": "//jsfiddle.net/KyleMit/QqqxF/",
+    "author": "KyleMit",
+    "latest_version": 284,
+    "created": "2014-05-02 16:04:27"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Loading Screen",
+    "url": "//jsfiddle.net/KyleMit/LTt6T/",
+    "author": "KyleMit",
+    "latest_version": 306,
+    "created": "2014-04-25 15:03:17"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "Avoid Bootstrap-select plugin Flickering",
+    "url": "//jsfiddle.net/KyleMit/aayq8/",
+    "author": "KyleMit",
+    "latest_version": 132,
+    "created": "2014-05-02 16:04:25"
+  },
+  {
+    "framework": "jQuery",
+    "version": 4,
+    "description": "",
+    "title": "OnSelected Event for Dropdown",
+    "url": "//jsfiddle.net/KyleMit/QxS6T/",
+    "author": "KyleMit",
+    "latest_version": 79,
+    "created": "2014-05-02 16:04:33"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Get Date from jQuery DatePicker",
+    "url": "//jsfiddle.net/KyleMit/SXmZ3/",
+    "author": "KyleMit",
+    "latest_version": 1527,
+    "created": "2014-05-02 16:04:39"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "CSS Border Image",
+    "url": "//jsfiddle.net/KyleMit/2YL4D/",
+    "author": "KyleMit",
+    "latest_version": 8,
+    "created": "2014-05-02 16:04:30"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "Highlight.js",
+    "url": "//jsfiddle.net/KyleMit/BB4g9/",
+    "author": "KyleMit",
+    "latest_version": 87,
+    "created": "2014-05-02 17:05:50"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Code Tabs",
+    "url": "//jsfiddle.net/KyleMit/92AzF/",
+    "author": "KyleMit",
+    "latest_version": 3,
+    "created": "2014-05-02 17:05:09"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "JavaScript Call",
+    "url": "//jsfiddle.net/KyleMit/6B7q3/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2014-04-12 18:06:52"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "Centered Layout on Zoom",
+    "url": "//jsfiddle.net/KyleMit/7p77E/",
+    "author": "KyleMit",
+    "latest_version": 3,
+    "created": "2014-05-02 17:05:51"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Tag It Issue",
+    "url": "//jsfiddle.net/KyleMit/Z3HDh/",
+    "author": "KyleMit",
+    "latest_version": 132,
+    "created": "2014-05-02 17:05:13"
+  },
+  {
+    "framework": "No-Library",
+    "version": 3,
+    "description": "",
+    "title": "Prettify ASP.NET Issue",
+    "url": "//jsfiddle.net/KyleMit/qpEhr/",
+    "author": "KyleMit",
+    "latest_version": 7,
+    "created": "2014-05-02 17:05:43"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Font Awesome 4.0 Circles",
+    "url": "//jsfiddle.net/KyleMit/qfMdP/",
+    "author": "KyleMit",
+    "latest_version": 115,
+    "created": "2014-03-28 22:10:17"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap Nested Navbar",
+    "url": "//jsfiddle.net/KyleMit/BPY86/",
+    "author": "KyleMit",
+    "latest_version": 35,
+    "created": "2014-03-01 22:10:27"
+  },
+  {
+    "framework": "jQuery",
+    "version": 51,
+    "description": "",
+    "title": "Bootstrap Docs Sidebar",
+    "url": "//jsfiddle.net/KyleMit/v6zhz/",
+    "author": "KyleMit",
+    "latest_version": 926,
+    "created": "2014-06-06 19:07:29"
+  },
+  {
+    "framework": "No-Library",
+    "version": 5,
+    "description": "",
+    "title": "CSS IS AWESOME",
+    "url": "//jsfiddle.net/KyleMit/AKsZv/",
+    "author": "KyleMit",
+    "latest_version": 51,
+    "created": "2014-02-22 06:06:28"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "jQuery Data Dictionary Test",
+    "url": "//jsfiddle.net/KyleMit/PAqSq/",
+    "author": "KyleMit",
+    "latest_version": 7,
+    "created": "2014-02-20 21:09:42"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "You might need jQuery",
+    "url": "//jsfiddle.net/KyleMit/JmHHn/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2014-02-13 21:09:30"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "Remaining Text Characters",
+    "url": "//jsfiddle.net/KyleMit/V2WZd/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2014-02-22 05:05:27"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Non Standard Attribute",
+    "url": "//jsfiddle.net/KyleMit/g9gRb/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2014-02-11 15:03:06"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "DataTables.js",
+    "url": "//jsfiddle.net/KyleMit/Dk7Tf/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2014-02-05 21:09:24"
+  },
+  {
+    "framework": "jQuery",
+    "version": 5,
+    "description": "",
+    "title": "Spice Templating",
+    "url": "//jsfiddle.net/KyleMit/aD7E2/",
+    "author": "KyleMit",
+    "latest_version": 5,
+    "created": "2014-02-08 16:04:55"
+  },
+  {
+    "framework": "jQuery",
+    "version": 3,
+    "description": "",
+    "title": "Bootstrap 3.0 - Side Navbar",
+    "url": "//jsfiddle.net/KyleMit/LRCpp/",
+    "author": "KyleMit",
+    "latest_version": 52,
+    "created": "2014-02-25 05:05:33"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Retrieving Data From Google Spreadsheet",
+    "url": "//jsfiddle.net/KyleMit/zJ64v/",
+    "author": "KyleMit",
+    "latest_version": 127,
+    "created": "2014-01-30 21:09:50"
+  },
+  {
+    "framework": "jQuery",
+    "version": 3,
+    "description": "",
+    "title": "Disable Entire Screen On Click",
+    "url": "//jsfiddle.net/KyleMit/EVMKU/",
+    "author": "KyleMit",
+    "latest_version": 1549,
+    "created": "2014-01-30 20:08:38"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Moustache",
+    "url": "//jsfiddle.net/KyleMit/e3kMw/",
+    "author": "KyleMit",
+    "latest_version": 77,
+    "created": "2014-01-30 04:04:09"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Handlebars",
+    "url": "//jsfiddle.net/KyleMit/nL32Q/",
+    "author": "KyleMit",
+    "latest_version": 353,
+    "created": "2014-01-30 04:04:06"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "JS Qr Code Generator",
+    "url": "//jsfiddle.net/KyleMit/S3eYz/",
+    "author": "KyleMit",
+    "latest_version": 1736,
+    "created": "2014-01-30 04:04:17"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Parsing JSON",
+    "url": "//jsfiddle.net/KyleMit/zU98X/",
+    "author": "KyleMit",
+    "latest_version": 1611,
+    "created": "2014-01-29 13:01:24"
+  },
+  {
+    "framework": "jQuery",
+    "version": 34,
+    "description": "",
+    "title": "jQuery Required Field Validation",
+    "url": "//jsfiddle.net/KyleMit/R8c8h/",
+    "author": "KyleMit",
+    "latest_version": 34,
+    "created": "2018-11-20 18:06:55"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3.0 - Navbar Collapse Issue",
+    "url": "//jsfiddle.net/KyleMit/fZTgH/",
+    "author": "KyleMit",
+    "latest_version": 165,
+    "created": "2014-01-23 22:10:28"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "Get Key Up Character With Shift",
+    "url": "//jsfiddle.net/KyleMit/Bd67a/",
+    "author": "KyleMit",
+    "latest_version": 2,
+    "created": "2014-01-22 00:12:44"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Javascript - Value In Array",
+    "url": "//jsfiddle.net/KyleMit/3VNKQ/",
+    "author": "KyleMit",
+    "latest_version": 2,
+    "created": "2014-01-21 21:09:50"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Horizontal Navbar",
+    "url": "//jsfiddle.net/KyleMit/hGF54/",
+    "author": "KyleMit",
+    "latest_version": 228,
+    "created": "2014-01-21 17:05:15"
+  },
+  {
+    "framework": "No-Library",
+    "version": 2,
+    "description": "",
+    "title": "Checkbox and Label Alignment",
+    "url": "//jsfiddle.net/KyleMit/K4cXa/",
+    "author": "KyleMit",
+    "latest_version": 3032,
+    "created": "2014-01-17 18:06:43"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3.0 - Small Grid Layout",
+    "url": "//jsfiddle.net/KyleMit/DVE4f/",
+    "author": "KyleMit",
+    "latest_version": 834,
+    "created": "2014-01-17 04:04:25"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Check Splitting",
+    "url": "//jsfiddle.net/KyleMit/D33nY/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2014-01-07 19:07:08"
+  },
+  {
+    "framework": "Mootools",
+    "version": 2,
+    "description": "",
+    "title": "Circled Letters",
+    "url": "//jsfiddle.net/KyleMit/N23P8/",
+    "author": "KyleMit",
+    "latest_version": 2,
+    "created": "2014-01-06 20:08:43"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1280,
+    "description": "",
+    "title": "Bootstrap 3.0 - Carousel Not Working",
+    "url": "//jsfiddle.net/KyleMit/XNr3z/",
+    "author": "KyleMit",
+    "latest_version": 1366,
+    "created": "2018-09-14 20:08:17"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Simple Scrolling",
+    "url": "//jsfiddle.net/KyleMit/WCgTt/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2013-12-17 15:03:33"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "Bootstrap 3.0 - Open Accordion At Top",
+    "url": "//jsfiddle.net/KyleMit/8aJx6/",
+    "author": "KyleMit",
+    "latest_version": 392,
+    "created": "2013-12-17 14:02:46"
+  },
+  {
+    "framework": "No-Library",
+    "version": 2475,
+    "description": "",
+    "title": "Bootstrap 3.0 Carousel with Pause and Play",
+    "url": "//jsfiddle.net/KyleMit/XFcSv/",
+    "author": "KyleMit",
+    "latest_version": 2521,
+    "created": "2018-10-30 14:02:11"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3.0 - Dropdown Colors",
+    "url": "//jsfiddle.net/KyleMit/6gNER/",
+    "author": "KyleMit",
+    "latest_version": 28,
+    "created": "2013-12-16 16:04:45"
+  },
+  {
+    "framework": "jQuery",
+    "version": 160,
+    "description": "",
+    "title": "Bootstrap 3.0 - Tooltip",
+    "url": "//jsfiddle.net/KyleMit/Q8TZv/",
+    "author": "KyleMit",
+    "latest_version": 679,
+    "created": "2015-01-05 17:05:21"
+  },
+  {
+    "framework": "jQuery",
+    "version": 3,
+    "description": "",
+    "title": "ID Finder",
+    "url": "//jsfiddle.net/KyleMit/k8quv/",
+    "author": "KyleMit",
+    "latest_version": 9,
+    "created": "2013-12-17 22:10:37"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Importing CSS File",
+    "url": "//jsfiddle.net/KyleMit/ycxkT/",
+    "author": "KyleMit",
+    "latest_version": 170,
+    "created": "2013-12-06 16:04:30"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Bootstrap 3.0 - Button Sizes",
+    "url": "//jsfiddle.net/KyleMit/Zv4ha/",
+    "author": "KyleMit",
+    "latest_version": 382,
+    "created": "2013-12-05 17:05:30"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Embed PDF",
+    "url": "//jsfiddle.net/KyleMit/3yLaL/",
+    "author": "KyleMit",
+    "latest_version": 80,
+    "created": "2013-12-05 05:05:33"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3.0 - Dropdown inside a Tab",
+    "url": "//jsfiddle.net/KyleMit/aAqsX/",
+    "author": "KyleMit",
+    "latest_version": 27,
+    "created": "2013-12-04 15:03:04"
+  },
+  {
+    "framework": "jQuery",
+    "version": 4,
+    "description": "",
+    "title": "Bootstrap 3.0 -Keep Accordions Open",
+    "url": "//jsfiddle.net/KyleMit/f8ypa/",
+    "author": "KyleMit",
+    "latest_version": 2089,
+    "created": "2013-12-03 20:08:25"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Rangy - Modify Element in Element Node",
+    "url": "//jsfiddle.net/KyleMit/zPbaL/",
+    "author": "KyleMit",
+    "latest_version": 309,
+    "created": "2013-11-28 05:05:20"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Comment and Uncomment",
+    "url": "//jsfiddle.net/KyleMit/XwmKM/",
+    "author": "KyleMit",
+    "latest_version": 18,
+    "created": "2013-11-28 05:05:32"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "CSS - Content Sizing",
+    "url": "//jsfiddle.net/KyleMit/Sa7xh/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2013-11-27 01:01:24"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Position jQuery UI Dialog",
+    "url": "//jsfiddle.net/KyleMit/978UW/",
+    "author": "KyleMit",
+    "latest_version": 1251,
+    "created": "2013-11-27 01:01:03"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "CSS - Top Align Text Within Line",
+    "url": "//jsfiddle.net/KyleMit/L9yqu/",
+    "author": "KyleMit",
+    "latest_version": 2,
+    "created": "2013-11-26 19:07:51"
+  },
+  {
+    "framework": "jQuery",
+    "version": 5,
+    "description": "",
+    "title": "Bootstrap 3.0  - Table",
+    "url": "//jsfiddle.net/KyleMit/dqq5B/",
+    "author": "KyleMit",
+    "latest_version": 1779,
+    "created": "2013-11-22 19:07:39"
+  },
+  {
+    "framework": "jQuery",
+    "version": 7,
+    "description": "",
+    "title": "jQuery Dialog - Load Every Link",
+    "url": "//jsfiddle.net/KyleMit/82QYd/",
+    "author": "KyleMit",
+    "latest_version": 79,
+    "created": "2013-12-05 16:04:35"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3.0 - Navbar",
+    "url": "//jsfiddle.net/KyleMit/Cav6w/",
+    "author": "KyleMit",
+    "latest_version": 75,
+    "created": "2013-11-20 19:07:59"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "jQuery Dialog - Load External Page",
+    "url": "//jsfiddle.net/KyleMit/66pLR/",
+    "author": "KyleMit",
+    "latest_version": 234,
+    "created": "2013-11-19 20:08:40"
+  },
+  {
+    "framework": "jQuery",
+    "version": 3,
+    "description": "",
+    "title": "Zero Clipboard - After Copy",
+    "url": "//jsfiddle.net/KyleMit/34bN3/",
+    "author": "KyleMit",
+    "latest_version": 72,
+    "created": "2013-11-20 13:01:57"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "Simple Fiddle",
+    "url": "//jsfiddle.net/KyleMit/LeDGv/",
+    "author": "KyleMit",
+    "latest_version": 2,
+    "created": "2013-11-19 20:08:27"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3.0 - Remote Loading",
+    "url": "//jsfiddle.net/KyleMit/6maV8/",
+    "author": "KyleMit",
+    "latest_version": 34,
+    "created": "2013-11-14 21:09:10"
+  },
+  {
+    "framework": "jQuery",
+    "version": 4,
+    "description": "",
+    "title": "Meetup API RSVP Picker",
+    "url": "//jsfiddle.net/KyleMit/8EJY4/",
+    "author": "KyleMit",
+    "latest_version": 9,
+    "created": "2014-02-12 20:08:10"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "CSS - Keep Floats on Same Line",
+    "url": "//jsfiddle.net/KyleMit/LgJ4w/",
+    "author": "KyleMit",
+    "latest_version": 26,
+    "created": "2013-11-13 03:03:53"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3.0 - Collapsable Panels",
+    "url": "//jsfiddle.net/KyleMit/Wc4xt/",
+    "author": "KyleMit",
+    "latest_version": 6707,
+    "created": "2013-11-12 21:09:08"
+  },
+  {
+    "framework": "jQuery",
+    "version": 4,
+    "description": "",
+    "title": "Bootstrap 3.0 - Collapse",
+    "url": "//jsfiddle.net/KyleMit/DSGxz/",
+    "author": "KyleMit",
+    "latest_version": 2930,
+    "created": "2013-11-12 20:08:02"
+  },
+  {
+    "framework": "jQuery",
+    "version": 36,
+    "description": "",
+    "title": "Bootstrap 3.0 - Create Bootstrap alert with jQuery",
+    "url": "//jsfiddle.net/KyleMit/Y3d3D/",
+    "author": "KyleMit",
+    "latest_version": 855,
+    "created": "2014-05-20 13:01:37"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Upload Image and Display On Screen",
+    "url": "//jsfiddle.net/KyleMit/d3H9f/",
+    "author": "KyleMit",
+    "latest_version": 651,
+    "created": "2013-11-08 20:08:44"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "JavaScript only gets inline styles",
+    "url": "//jsfiddle.net/KyleMit/F4bDm/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2013-11-08 14:02:27"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "Stacking Context Demo",
+    "url": "//jsfiddle.net/KyleMit/b5Hz9/",
+    "author": "KyleMit",
+    "latest_version": 156,
+    "created": "2013-11-08 01:01:48"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3.0 - Tiny Navbar",
+    "url": "//jsfiddle.net/KyleMit/McHUc/",
+    "author": "KyleMit",
+    "latest_version": 170,
+    "created": "2013-11-08 01:01:20"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "CSS - Stacking Order",
+    "url": "//jsfiddle.net/KyleMit/CmMPa/",
+    "author": "KyleMit",
+    "latest_version": 9,
+    "created": "2013-11-07 22:10:15"
+  },
+  {
+    "framework": "jQuery",
+    "version": 12,
+    "description": "",
+    "title": "jQuery UI Dialog with Bootstrap Tours",
+    "url": "//jsfiddle.net/KyleMit/DYNbj/",
+    "author": "KyleMit",
+    "latest_version": 224,
+    "created": "2014-05-04 23:11:31"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "jQuery UI Dialog Z-Index",
+    "url": "//jsfiddle.net/KyleMit/v3QCW/",
+    "author": "KyleMit",
+    "latest_version": 142,
+    "created": "2013-11-07 20:08:50"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3.0 - Boostro",
+    "url": "//jsfiddle.net/KyleMit/DR6qN/",
+    "author": "KyleMit",
+    "latest_version": 68,
+    "created": "2013-11-07 20:08:05"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3.0 - Carousel Navigation",
+    "url": "//jsfiddle.net/KyleMit/bn6aA/",
+    "author": "KyleMit",
+    "latest_version": 98,
+    "created": "2013-11-07 04:04:17"
+  },
+  {
+    "framework": "jQuery",
+    "version": 7,
+    "description": "",
+    "title": "Google Maps API with jQuery and JSONP",
+    "url": "//jsfiddle.net/KyleMit/bFc4y/",
+    "author": "KyleMit",
+    "latest_version": 175,
+    "created": "2014-02-02 03:03:41"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2283,
+    "description": "",
+    "title": "Bootstrap 3.0 - Keep Dropdown Open",
+    "url": "//jsfiddle.net/KyleMit/ZS4L7/",
+    "author": "KyleMit",
+    "latest_version": 3019,
+    "created": "2018-05-17 20:08:12"
+  },
+  {
+    "framework": "No-Library",
+    "version": 2,
+    "description": "",
+    "title": "Browser Detection",
+    "url": "//jsfiddle.net/KyleMit/wXNEM/",
+    "author": "KyleMit",
+    "latest_version": 71,
+    "created": "2013-11-05 14:02:05"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Rotate Back and Forth",
+    "url": "//jsfiddle.net/KyleMit/v6w9q/",
+    "author": "KyleMit",
+    "latest_version": 7,
+    "created": "2013-11-04 16:04:48"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Bing like search bar",
+    "url": "//jsfiddle.net/KyleMit/Kumsb/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2013-10-30 16:04:48"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Bootstrap 3.0 ToolTips",
+    "url": "//jsfiddle.net/KyleMit/a4WwQ/",
+    "author": "KyleMit",
+    "latest_version": 2165,
+    "created": "2013-10-28 15:03:32"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3.0 Popover Sample",
+    "url": "//jsfiddle.net/KyleMit/VUZhL/",
+    "author": "KyleMit",
+    "latest_version": 3774,
+    "created": "2013-10-21 16:04:47"
+  },
+  {
+    "framework": "jQuery",
+    "version": 5,
+    "description": "",
+    "title": "SO equal height columns with wells",
+    "url": "//jsfiddle.net/KyleMit/3L84c/",
+    "author": "KyleMit",
+    "latest_version": 56,
+    "created": "2013-10-17 21:09:07"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "jQuery toggle visibility",
+    "url": "//jsfiddle.net/KyleMit/7hMxF/",
+    "author": "KyleMit",
+    "latest_version": 322,
+    "created": "2013-10-16 22:10:54"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "Drag and drop match up",
+    "url": "//jsfiddle.net/KyleMit/Wdyd6/",
+    "author": "KyleMit",
+    "latest_version": 234,
+    "created": "2013-10-16 21:09:43"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "SO - Vertical White Spacing",
+    "url": "//jsfiddle.net/KyleMit/sYmxr/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2013-10-16 15:03:07"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Disabled With TimeDelay",
+    "url": "//jsfiddle.net/KyleMit/q5Scg/",
+    "author": "KyleMit",
+    "latest_version": 2,
+    "created": "2013-10-14 20:08:59"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap Sidebar on Hover",
+    "url": "//jsfiddle.net/KyleMit/T5vBR/",
+    "author": "KyleMit",
+    "latest_version": 126,
+    "created": "2013-10-14 19:07:28"
+  },
+  {
+    "framework": "jQuery",
+    "version": 6,
+    "description": "",
+    "title": "Bootstrap 3.0 Checkbox Tooltips",
+    "url": "//jsfiddle.net/KyleMit/W39mX/",
+    "author": "KyleMit",
+    "latest_version": 133,
+    "created": "2013-10-14 16:04:28"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Zoom in on element",
+    "url": "//jsfiddle.net/KyleMit/6pacM/",
+    "author": "KyleMit",
+    "latest_version": 4,
+    "created": "2013-10-14 14:02:15"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "HTML5 Audio - Play in Title",
+    "url": "//jsfiddle.net/KyleMit/Tt48M/",
+    "author": "KyleMit",
+    "latest_version": 26,
+    "created": "2013-10-14 04:04:07"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Iframe Obsolete Attributes",
+    "url": "//jsfiddle.net/KyleMit/sMSt6/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2013-10-14 00:12:31"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "https://portal.healthconnect.vermont.gov/VTHBELand/welcome.action",
+    "title": "Background Gradient with Images",
+    "url": "//jsfiddle.net/KyleMit/7Rp4V/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2013-10-03 14:02:42"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "Multi Drag Support",
+    "url": "//jsfiddle.net/KyleMit/dr4dV/",
+    "author": "KyleMit",
+    "latest_version": 80,
+    "created": "2013-09-23 19:07:09"
+  },
+  {
+    "framework": "jQuery",
+    "version": 9,
+    "description": "",
+    "title": "Bootstrap 3.0 Navigation",
+    "url": "//jsfiddle.net/KyleMit/gDLJm/",
+    "author": "KyleMit",
+    "latest_version": 146,
+    "created": "2013-09-23 02:02:57"
+  },
+  {
+    "framework": "jQuery",
+    "version": 69,
+    "description": "",
+    "title": "Bootstrap 3.0  - Navbar",
+    "url": "//jsfiddle.net/KyleMit/RxguB/",
+    "author": "KyleMit",
+    "latest_version": 2045,
+    "created": "2015-07-14 21:09:33"
+  },
+  {
+    "framework": "jQuery",
+    "version": 3,
+    "description": "",
+    "title": "Prevent Mouse Clicks",
+    "url": "//jsfiddle.net/KyleMit/XYL8E/",
+    "author": "KyleMit",
+    "latest_version": 21,
+    "created": "2013-09-19 15:03:19"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Load jQuery with JavaScript",
+    "url": "//jsfiddle.net/KyleMit/QqJ9q/",
+    "author": "KyleMit",
+    "latest_version": 15,
+    "created": "2013-09-19 13:01:23"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "MouseOver vs MouseEnter",
+    "url": "//jsfiddle.net/KyleMit/GR8sk/",
+    "author": "KyleMit",
+    "latest_version": 158,
+    "created": "2013-09-19 04:04:56"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Bootstrap 2.3.2 Modal ToolTip",
+    "url": "//jsfiddle.net/KyleMit/gDjtk/",
+    "author": "KyleMit",
+    "latest_version": 704,
+    "created": "2013-09-18 23:11:48"
+  },
+  {
+    "framework": "jQuery",
+    "version": 79,
+    "description": "",
+    "title": "Bootstrap 3.0 Glyphicon Inside Input Box",
+    "url": "//jsfiddle.net/KyleMit/cyCFS/",
+    "author": "KyleMit",
+    "latest_version": 4508,
+    "created": "2014-01-02 16:04:49"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "Bootstrap 3.0 - Horizontal Form",
+    "url": "//jsfiddle.net/KyleMit/sq9Xy/",
+    "author": "KyleMit",
+    "latest_version": 369,
+    "created": "2013-09-17 00:12:19"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "jQuery Extension - deselect",
+    "url": "//jsfiddle.net/KyleMit/FsQMD/",
+    "author": "KyleMit",
+    "latest_version": 40,
+    "created": "2013-09-16 14:02:53"
+  },
+  {
+    "framework": "jQuery",
+    "version": 4,
+    "description": "",
+    "title": "Select Divs",
+    "url": "//jsfiddle.net/QwU7x/",
+    "author": "no author",
+    "latest_version": 9,
+    "created": "2013-09-13 21:09:12"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Clear and Restore Fields",
+    "url": "//jsfiddle.net/KyleMit/bcC3z/",
+    "author": "KyleMit",
+    "latest_version": 26,
+    "created": "2013-09-19 21:09:32"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1158,
+    "description": "",
+    "title": "Bootstrap 3.0 Context Menu",
+    "url": "//jsfiddle.net/KyleMit/X9tgY/",
+    "author": "KyleMit",
+    "latest_version": 2561,
+    "created": "2016-01-27 14:02:43"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "Full Page Background Image",
+    "url": "//jsfiddle.net/KyleMit/n5qfa/",
+    "author": "KyleMit",
+    "latest_version": 193,
+    "created": "2013-09-05 20:08:30"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Basic Site Layout",
+    "url": "//jsfiddle.net/KyleMit/bu8xP/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2013-09-04 16:04:43"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Overflow text within initial width",
+    "url": "//jsfiddle.net/KyleMit/YqnMC/",
+    "author": "KyleMit",
+    "latest_version": 4,
+    "created": "2013-09-03 19:07:42"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Centering Content",
+    "url": "//jsfiddle.net/KyleMit/4TuqW/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2013-09-03 17:05:52"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Google Sites Header Fix",
+    "url": "//jsfiddle.net/KyleMit/NJezK/",
+    "author": "KyleMit",
+    "latest_version": 3,
+    "created": "2013-09-02 17:05:52"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Bootstrap 3.0 Carousel Full sized background Image",
+    "url": "//jsfiddle.net/KyleMit/LzdUa/",
+    "author": "KyleMit",
+    "latest_version": 284,
+    "created": "2013-09-01 16:04:42"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "Bootstrap 3.0 Carousel without Vertical Stripes",
+    "url": "//jsfiddle.net/KyleMit/L5C9Y/",
+    "author": "KyleMit",
+    "latest_version": 81,
+    "created": "2013-09-01 16:04:26"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Limited Border Radius",
+    "url": "//jsfiddle.net/KyleMit/3kFKx/",
+    "author": "KyleMit",
+    "latest_version": 2,
+    "created": "2013-09-01 07:07:15"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Vertical Centering Help",
+    "url": "//jsfiddle.net/KyleMit/jgBCR/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2013-09-01 07:07:21"
+  },
+  {
+    "framework": "jQuery",
+    "version": 7,
+    "description": "",
+    "title": "Bootstrap 2.3.2 Append Input",
+    "url": "//jsfiddle.net/R7Kzx/",
+    "author": "no author",
+    "latest_version": 655,
+    "created": "2013-09-13 04:04:07"
+  },
+  {
+    "framework": "CreateJS",
+    "version": 4,
+    "description": "",
+    "title": "Autocomplete Combobox",
+    "url": "//jsfiddle.net/Fjj3J/",
+    "author": "no author",
+    "latest_version": 23,
+    "created": "2013-09-10 06:06:51"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Multistep Form",
+    "url": "//jsfiddle.net/KyleMit/e7QpW/",
+    "author": "KyleMit",
+    "latest_version": 63,
+    "created": "2013-09-01 06:06:37"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "jQuery UI - Slider",
+    "url": "//jsfiddle.net/KyleMit/EHLQL/",
+    "author": "KyleMit",
+    "latest_version": 437,
+    "created": "2013-09-01 05:05:06"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Css Table with Header",
+    "url": "//jsfiddle.net/KyleMit/zZv2X/",
+    "author": "KyleMit",
+    "latest_version": 2,
+    "created": "2013-09-01 04:04:55"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Change Div Color On Mousewheel",
+    "url": "//jsfiddle.net/KyleMit/bsbaf/",
+    "author": "KyleMit",
+    "latest_version": 45,
+    "created": "2013-09-01 04:04:38"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Zooming Page Elements",
+    "url": "//jsfiddle.net/KyleMit/YTNph/",
+    "author": "KyleMit",
+    "latest_version": 61,
+    "created": "2013-09-01 04:04:15"
+  },
+  {
+    "framework": "jQuery",
+    "version": 1,
+    "description": "",
+    "title": "Mutually Exclusive Checkboxes",
+    "url": "//jsfiddle.net/KyleMit/v24Db/",
+    "author": "KyleMit",
+    "latest_version": 151,
+    "created": "2013-09-17 19:07:28"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Table with CSS",
+    "url": "//jsfiddle.net/KyleMit/Sx97B/",
+    "author": "KyleMit",
+    "latest_version": 202,
+    "created": "2013-09-01 04:04:33"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Fixed Position Header",
+    "url": "//jsfiddle.net/KyleMit/UnAkq/",
+    "author": "KyleMit",
+    "latest_version": 120,
+    "created": "2013-09-01 04:04:11"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "Skeleton - Side by Side Grid",
+    "url": "//jsfiddle.net/KyleMit/FYEKM/",
+    "author": "KyleMit",
+    "latest_version": 33,
+    "created": "2013-09-01 07:07:22"
+  },
+  {
+    "framework": "No-Library",
+    "version": 1,
+    "description": "",
+    "title": "Absolute Position Inside Relative",
+    "url": "//jsfiddle.net/KyleMit/pFeYa/",
+    "author": "KyleMit",
+    "latest_version": 204,
+    "created": "2013-09-01 07:07:39"
+  },
+  {
+    "framework": "No-Library",
+    "version": 3,
+    "description": "",
+    "title": "Box Shadow",
+    "url": "//jsfiddle.net/KyleMit/WRrx2/",
+    "author": "KyleMit",
+    "latest_version": 56,
+    "created": "2013-09-17 15:03:05"
+  },
+  {
+    "framework": "jQuery",
+    "version": 3,
+    "description": "",
+    "title": "Expandable Panels",
+    "url": "//jsfiddle.net/KyleMit/QR7hR/",
+    "author": "KyleMit",
+    "latest_version": 638,
+    "created": "2013-09-01 07:07:34"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "Highlight Row On Click",
+    "url": "//jsfiddle.net/KyleMit/8vFJA/",
+    "author": "KyleMit",
+    "latest_version": 116,
+    "created": "2013-09-01 07:07:52"
+  },
+  {
+    "framework": "jQuery",
+    "version": 3,
+    "description": "",
+    "title": "Checkbox click event",
+    "url": "//jsfiddle.net/KyleMit/4cWgN/",
+    "author": "KyleMit",
+    "latest_version": 73,
+    "created": "2013-09-01 07:07:09"
+  },
+  {
+    "framework": "jQuery",
+    "version": 5,
+    "description": "",
+    "title": "Bootstrap 2.3.2 Tooltip",
+    "url": "//jsfiddle.net/KyleMit/vcr9J/",
+    "author": "KyleMit",
+    "latest_version": 633,
+    "created": "2013-09-17 16:04:49"
+  },
+  {
+    "framework": "jQuery",
+    "version": 3,
+    "description": "",
+    "title": "Bootstrap 3.0 Tooltip",
+    "url": "//jsfiddle.net/KyleMit/g74Ep/",
+    "author": "KyleMit",
+    "latest_version": 813,
+    "created": "2013-09-01 07:07:51"
+  },
+  {
+    "framework": "jQuery",
+    "version": 3,
+    "description": "",
+    "title": "Bootstrap 2.3.2 Skeleton",
+    "url": "//jsfiddle.net/KyleMit/xamHD/",
+    "author": "KyleMit",
+    "latest_version": 370,
+    "created": "2013-09-06 23:11:27"
+  },
+  {
+    "framework": "jQuery",
+    "version": 35,
+    "description": "",
+    "title": "Bootstrap 3 Skeleton",
+    "url": "//jsfiddle.net/KyleMit/kcpma/",
+    "author": "KyleMit",
+    "latest_version": 1693,
+    "created": "2014-10-03 16:04:05"
+  },
+  {
+    "framework": "No-Library",
+    "version": 6,
+    "description": "",
+    "title": "Styling abbr elements",
+    "url": "//jsfiddle.net/KyleMit/qqrYd/",
+    "author": "KyleMit",
+    "latest_version": 6,
+    "created": "2013-09-19 03:03:22"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "css inheritence",
+    "url": "//jsfiddle.net/KyleMit/UBJn2/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2013-08-23 20:08:10"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Test Mobile Site for JQuery UI",
+    "url": "//jsfiddle.net/KyleMit/YZLqA/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2013-08-23 15:03:22"
+  },
+  {
+    "framework": "jQuery",
+    "version": 2,
+    "description": "",
+    "title": "Change Focus",
+    "url": "//jsfiddle.net/KyleMit/H3XJr/",
+    "author": "KyleMit",
+    "latest_version": 20,
+    "created": "2013-09-01 07:07:10"
+  },
+  {
+    "framework": "jQuery",
+    "version": 7,
+    "description": "",
+    "title": "Handling select event",
+    "url": "//jsfiddle.net/KyleMit/adHWC/",
+    "author": "KyleMit",
+    "latest_version": 7,
+    "created": "2013-09-04 15:03:23"
+  },
+  {
+    "framework": "jQuery",
+    "version": 6,
+    "description": "",
+    "title": "rcarousel",
+    "url": "//jsfiddle.net/KyleMit/8bRLb/",
+    "author": "KyleMit",
+    "latest_version": 111,
+    "created": "2013-09-01 07:07:37"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Shadow Screen For Popup",
+    "url": "//jsfiddle.net/KyleMit/LDKYK/",
+    "author": "KyleMit",
+    "latest_version": 73,
+    "created": "2013-08-08 21:09:25"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "Open Modal",
+    "url": "//jsfiddle.net/KyleMit/aDkAF/",
+    "author": "KyleMit",
+    "latest_version": 61,
+    "created": "2013-08-08 21:09:44"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Close Window",
+    "url": "//jsfiddle.net/KyleMit/UBUzw/",
+    "author": "KyleMit",
+    "latest_version": 373,
+    "created": "2013-08-08 21:09:05"
+  },
+  {
+    "framework": "jQuery",
+    "version": 151,
+    "description": "",
+    "title": "fire onmouseover when element disabled",
+    "url": "//jsfiddle.net/KyleMit/CbEPj/",
+    "author": "KyleMit",
+    "latest_version": 281,
+    "created": "2017-03-21 16:04:45"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "IE Dropdownbox issue",
+    "url": "//jsfiddle.net/KyleMit/TyxYd/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2013-08-07 20:08:03"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "IE DropDown Issue",
+    "url": "//jsfiddle.net/KyleMit/58AZD/",
+    "author": "KyleMit",
+    "latest_version": 20,
+    "created": "2013-08-07 19:07:15"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "IE8 DropDown Issue",
+    "url": "//jsfiddle.net/KyleMit/hYFe6/",
+    "author": "KyleMit",
+    "latest_version": 4,
+    "created": "2013-08-07 19:07:15"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "James Test",
+    "url": "//jsfiddle.net/KyleMit/5XjnS/",
+    "author": "KyleMit",
+    "latest_version": 5,
+    "created": "2013-08-05 04:04:39"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "First Block Color",
+    "url": "//jsfiddle.net/KyleMit/R8jLb/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2013-08-01 17:05:11"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "This is a simple Bootstrap skeleton. You can fork it to get a ready to use Bootstrap fiddle.",
+    "title": "Highlighting Navbar",
+    "url": "//jsfiddle.net/KyleMit/8SNuJ/",
+    "author": "KyleMit",
+    "latest_version": 0,
+    "created": "2013-08-01 13:01:17"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "This is a simple Bootstrap skeleton. You can fork it to get a ready to use Bootstrap fiddle.",
+    "title": "Replace Carousel Arrow",
+    "url": "//jsfiddle.net/KyleMit/HqjGZ/",
+    "author": "KyleMit",
+    "latest_version": 15,
+    "created": "2013-07-31 19:07:28"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "FieldSet Issue",
+    "url": "//jsfiddle.net/KyleMit/ZbNWL/",
+    "author": "KyleMit",
+    "latest_version": 5,
+    "created": "2013-07-29 18:06:39"
+  },
+  {
+    "framework": "No-Library",
+    "version": 0,
+    "description": "",
+    "title": "Boxed Layout",
+    "url": "//jsfiddle.net/KyleMit/ApKHE/",
+    "author": "KyleMit",
+    "latest_version": 20,
+    "created": "2013-07-29 14:02:19"
+  },
+  {
+    "framework": "jQuery",
+    "version": 4,
+    "description": "This is a simple Bootstrap skeleton. You can fork it to get a ready to use Bootstrap fiddle.",
+    "title": "Bootstrap Skeleton",
+    "url": "//jsfiddle.net/KyleMit/nfkr5/",
+    "author": "KyleMit",
+    "latest_version": 35,
+    "created": "2014-04-17 13:01:35"
+  },
+  {
+    "framework": "jQuery",
+    "version": 0,
+    "description": "",
+    "title": "IsDirty Web Form",
+    "url": "//jsfiddle.net/KyleMit/4WUS6/",
+    "author": "KyleMit",
+    "latest_version": 1,
+    "created": "2013-07-01 18:06:13"
+  }
+]
